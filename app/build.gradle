@@ -1,0 +1,30 @@
+apply plugin: 'com.android.application'
+
+android {
+    compileSdkVersion 25
+    buildToolsVersion "25.0.2"
+
+    defaultConfig {
+        applicationId "com.baidu.speech.recognizerdemo"
+        minSdkVersion 15
+        targetSdkVersion 25
+
+    }
+
+    buildTypes {
+        release {
+            minifyEnabled true
+            proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-rules.txt'
+        }
+    }
+}
+
+dependencies {
+    //compile 'com.android.support:support-v4:19.1.0'
+    compile fileTree(exclude: '*.bak', dir: 'libs')
+    compile 'com.android.support:appcompat-v7:25.3.1'
+    compile files('libs/CanallGateway.jar')
+    compile files('libs/CanallGateway.jar')
+    compile files('libs/CanallGateway.jar')
+    compile files('libs/pinyin4j-2.5.0.jar')
+}

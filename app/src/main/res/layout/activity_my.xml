@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="20dp"
+        android:layout_marginLeft="20dp"
+        android:layout_marginRight="10dp"
+        android:orientation="horizontal">
+        <EditText
+            android:id="@+id/et_input"
+            android:layout_width="0dp"
+            android:layout_weight="1"
+            android:layout_height="wrap_content" />
+        <TextView
+            android:id="@+id/clear"
+            android:textColor="#fde423"
+            android:text="清空"
+            android:textSize="18sp"
+            android:layout_marginLeft="10dp"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content" />
+    </LinearLayout>
+
+
+    <HorizontalScrollView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:scrollbars="none">
+        <LinearLayout
+            android:layout_margin="10dp"
+            android:orientation="horizontal"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content">
+            <Button
+                android:id="@+id/btn_login"
+                android:layout_width="150dp"
+                android:layout_height="wrap_content"
+                android:text="登录"/>
+
+            <Button
+                android:id="@+id/btn_getGateway"
+                android:layout_width="150dp"
+                android:layout_height="wrap_content"
+                android:text="获取网关"/>
+            <Button
+                android:id="@+id/btn_getDevice"
+                android:layout_width="150dp"
+                android:layout_height="wrap_content"
+                android:text="获取设备"/>
+            <Button
+                android:id="@+id/btn_getScene"
+                android:layout_width="150dp"
+                android:layout_height="wrap_content"
+                android:text="获取场景"/>
+            <Button
+                android:id="@+id/btn_getUser"
+                android:layout_width="150dp"
+                android:layout_height="wrap_content"
+                android:text="当前用户"/>
+            <Button
+                android:id="@+id/btn_CurrentGateway"
+                android:layout_width="150dp"
+                android:layout_height="wrap_content"
+                android:text="当前网关"/>
+            <Button
+                android:id="@+id/btn_logout"
+                android:layout_width="150dp"
+                android:layout_height="wrap_content"
+                android:text="登出"/>
+        </LinearLayout>
+    </HorizontalScrollView>
+
+    <HorizontalScrollView
+        android:layout_margin="10dp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:scrollbars="none">
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal">
+            <Button
+                android:id="@+id/btn_runDevice"
+                android:layout_width="150dp"
+                android:layout_height="wrap_content"
+                android:text="控制设备"/>
+            <Button
+                android:id="@+id/btn_runScene"
+                android:layout_width="150dp"
+                android:layout_height="wrap_content"
+                android:text="执行场景"/>
+            <Button
+                android:id="@+id/btn_setGateway"
+                android:layout_width="150dp"
+                android:layout_height="wrap_content"
+                android:text="切换网关"/>
+            <Button
+                android:layout_width="150dp"
+                android:layout_height="wrap_content"
+                android:text="GET密钥"/>
+
+            <Button
+                android:id="@+id/btn_clear"
+                android:layout_width="150dp"
+                android:layout_height="wrap_content"
+                android:text="清空日志"/>
+
+        </LinearLayout>
+
+    </HorizontalScrollView>
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="0.5dp"
+        android:background="@color/gray"
+        />
+
+    <ScrollView
+        android:id="@+id/sv_log"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1"
+        android:layout_margin="10dp">
+        <TextView
+            android:id="@+id/log"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textSize="17sp"
+            android:textIsSelectable="true"
+            android:text="@string/howToUse"
+            />
+
+    </ScrollView>
+
+    <Button
+        android:id="@+id/btn_start"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="语音控制"/>
+
+</LinearLayout>

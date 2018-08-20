@@ -1,0 +1,257 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\Administrator\.android\build-cache\d4fbb4ed2ea794ceb0d453416ebfbff42e645fa8\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4a26a1154d053ab11aaf4c3967c42a4d66390991">
+        <dex dex="D:\APP\XiaoBaiWthBaidu\app\build\intermediates\pre-dexed\debug\classes_deb809ba5bcf3db9446fa54faf32e2c6826ad5a3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Administrator\.android\build-cache\b487a666d32b87d6ab6d8a907e8edf0c816175bf\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="D:\APP\XiaoBaiWthBaidu\app\build\intermediates\pre-dexed\debug\classes_9b07c6f5c164311c4f5aae92c95c28af01689617.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Administrator\.android\build-cache\702e0f11ee0efd9fcd28850379c4313dd6f9576d\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="da27a32db6af8954ee8061537c7d476fcb1df46f">
+        <dex dex="D:\APP\XiaoBaiWthBaidu\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_1df0e4593d762beb92e599a5d2d9a4c00d2df926\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Administrator\.android\build-cache\d4fbb4ed2ea794ceb0d453416ebfbff42e645fa8\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4a26a1154d053ab11aaf4c3967c42a4d66390991">
+        <dex dex="D:\APP\XiaoBaiWthBaidu\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_deb809ba5bcf3db9446fa54faf32e2c6826ad5a3\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Administrator\.android\build-cache\b487a666d32b87d6ab6d8a907e8edf0c816175bf\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="D:\APP\XiaoBaiWthBaidu\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_9b07c6f5c164311c4f5aae92c95c28af01689617\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\SDK\extras\android\m2repository\com\android\support\support-annotations\25.3.1\support-annotations-25.3.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="bf8841d29fa39e077730e7a91222c2ce269fa7c9">
+        <dex dex="D:\APP\XiaoBaiWthBaidu\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-25.3.1_7caf7a498969e20b4daf7927299c8b5b655b2d1e\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Administrator\.android\build-cache\702e0f11ee0efd9fcd28850379c4313dd6f9576d\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="da27a32db6af8954ee8061537c7d476fcb1df46f">
+        <dex dex="D:\APP\XiaoBaiWthBaidu\app\build\intermediates\pre-dexed\debug\classes_1df0e4593d762beb92e599a5d2d9a4c00d2df926.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Administrator\.android\build-cache\9fc7bd423b823960f2cc72042335884def4aec22\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="45f697922e6f072daa12f8a2995dc77ab03c11da">
+        <dex dex="D:\APP\XiaoBaiWthBaidu\app\build\intermediates\pre-dexed\debug\classes_f02b3399f20de72c811d7101d1b0744bf4e6162f.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\APP\XiaoBaiWthBaidu\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="75064cb4f6dd5f332dccee5c72446cebcc9e1987">
+        <dex dex="D:\APP\XiaoBaiWthBaidu\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_22f1ef9cd69b20684e2947c6be7f48da5036017d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Administrator\.android\build-cache\9fc7bd423b823960f2cc72042335884def4aec22\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="45f697922e6f072daa12f8a2995dc77ab03c11da">
+        <dex dex="D:\APP\XiaoBaiWthBaidu\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_f02b3399f20de72c811d7101d1b0744bf4e6162f\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\SDK\extras\android\m2repository\com\android\support\support-annotations\25.3.1\support-annotations-25.3.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="bf8841d29fa39e077730e7a91222c2ce269fa7c9">
+        <dex dex="D:\APP\XiaoBaiWthBaidu\app\build\intermediates\pre-dexed\debug\support-annotations-25.3.1_7caf7a498969e20b4daf7927299c8b5b655b2d1e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Administrator\.android\build-cache\585a91520a02428cf9fb8fa7519adf7f11af3d39\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6ef31f1555bb4cc513ec8d52711365a8b89f3600">
+        <dex dex="D:\APP\XiaoBaiWthBaidu\app\build\intermediates\pre-dexed\debug\classes_8af541c5a9f2be5371f04300684b10bc296eb2bb.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Administrator\.android\build-cache\8afab530a9623dbadf91fc2b2c83c329087c60a7\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="150252b33b00274cc868578ade018fda0d43a3eb">
+        <dex dex="D:\APP\XiaoBaiWthBaidu\app\build\intermediates\pre-dexed\debug\classes_9f89918d1cb714e55b18ec7419c7a3de8665a2df.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Administrator\.android\build-cache\585a91520a02428cf9fb8fa7519adf7f11af3d39\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6ef31f1555bb4cc513ec8d52711365a8b89f3600">
+        <dex dex="D:\APP\XiaoBaiWthBaidu\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_8af541c5a9f2be5371f04300684b10bc296eb2bb\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Administrator\.android\build-cache\8afab530a9623dbadf91fc2b2c83c329087c60a7\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="150252b33b00274cc868578ade018fda0d43a3eb">
+        <dex dex="D:\APP\XiaoBaiWthBaidu\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_9f89918d1cb714e55b18ec7419c7a3de8665a2df\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Administrator\.android\build-cache\bce55b1644c10b27b1c40e415e318dd4616879aa\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="efb8cb62d47d157c29d1521daac7eefd4cb881ee">
+        <dex dex="D:\APP\XiaoBaiWthBaidu\app\build\intermediates\pre-dexed\debug\classes_1ce7677730b3833df63bef372670442420c51445.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Administrator\.android\build-cache\bce55b1644c10b27b1c40e415e318dd4616879aa\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="efb8cb62d47d157c29d1521daac7eefd4cb881ee">
+        <dex dex="D:\APP\XiaoBaiWthBaidu\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_1ce7677730b3833df63bef372670442420c51445\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\APP\XiaoBaiWthBaidu\app\libs\pinyin4j-2.5.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ae353005f973da1cd8545b54354504c2503f6865">
+        <dex dex="D:\APP\XiaoBaiWthBaidu\app\build\intermediates\transforms\dex\debug\folders\1000\2\pinyin4j-2.5.0_6f42a8ee581225ecced4c37110ffcd4ff390b0c9\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Administrator\.android\build-cache\ab47603130756c929f27d84cf903561deaf7c179\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="052f5f840f21174a3ecf6544130194e2652cbb73">
+        <dex dex="D:\APP\XiaoBaiWthBaidu\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_e2cd9ae87408aff692454b491619d8495fe88e88\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Administrator\.android\build-cache\d5d548529c94eeb1f10fff1eae72f35c4d763d6f\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="47635644d0d5c103c1dd8360549eb9ba3225c7d3">
+        <dex dex="D:\APP\XiaoBaiWthBaidu\app\build\intermediates\pre-dexed\debug\classes_af4971579de017cecad4173f7d844121e880b1ce.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Administrator\.android\build-cache\ab47603130756c929f27d84cf903561deaf7c179\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="052f5f840f21174a3ecf6544130194e2652cbb73">
+        <dex dex="D:\APP\XiaoBaiWthBaidu\app\build\intermediates\pre-dexed\debug\classes_e2cd9ae87408aff692454b491619d8495fe88e88.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\APP\XiaoBaiWthBaidu\app\libs\pinyin4j-2.5.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ae353005f973da1cd8545b54354504c2503f6865">
+        <dex dex="D:\APP\XiaoBaiWthBaidu\app\build\intermediates\pre-dexed\debug\pinyin4j-2.5.0_6f42a8ee581225ecced4c37110ffcd4ff390b0c9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\APP\XiaoBaiWthBaidu\app\libs\bdasr_V3_20180320_9066860.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="24f485559295453a1bca75bb4b1d1a8448defd70">
+        <dex dex="D:\APP\XiaoBaiWthBaidu\app\build\intermediates\pre-dexed\debug\bdasr_V3_20180320_9066860_94993f9d7b68164bc24b182e3c362c83012fc5c7.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\APP\XiaoBaiWthBaidu\app\libs\CanallGateway.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="935760df6468333e9791519106566db5ffc5c51c">
+        <dex dex="D:\APP\XiaoBaiWthBaidu\app\build\intermediates\transforms\dex\debug\folders\1000\2\CanallGateway_f1e80d88925fac4087e5347a1174a4158b24d7ba\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\APP\XiaoBaiWthBaidu\app\libs\bdasr_V3_20180320_9066860.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="24f485559295453a1bca75bb4b1d1a8448defd70">
+        <dex dex="D:\APP\XiaoBaiWthBaidu\app\build\intermediates\transforms\dex\debug\folders\1000\2\bdasr_V3_20180320_9066860_94993f9d7b68164bc24b182e3c362c83012fc5c7\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\APP\XiaoBaiWthBaidu\app\libs\CanallGateway.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="935760df6468333e9791519106566db5ffc5c51c">
+        <dex dex="D:\APP\XiaoBaiWthBaidu\app\build\intermediates\pre-dexed\debug\CanallGateway_f1e80d88925fac4087e5347a1174a4158b24d7ba.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\APP\XiaoBaiWthBaidu\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="D:\APP\XiaoBaiWthBaidu\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_bc1ff21100d6147b87a9dfe1cc2aae6d581fa37a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Administrator\.android\build-cache\d5d548529c94eeb1f10fff1eae72f35c4d763d6f\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="47635644d0d5c103c1dd8360549eb9ba3225c7d3">
+        <dex dex="D:\APP\XiaoBaiWthBaidu\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_af4971579de017cecad4173f7d844121e880b1ce\classes.dex" />
+    </item>
+
+</items>
