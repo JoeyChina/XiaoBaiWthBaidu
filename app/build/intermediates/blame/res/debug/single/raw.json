@@ -1,30 +1,30 @@
 [
     {
-        "merged": "D:\\APP\\XiaoBaiWthBaidu\\app\\build\\intermediates\\res\\merged\\debug\\raw\\bdspeech_recognition_success.mp3",
-        "source": "D:\\APP\\XiaoBaiWthBaidu\\app\\src\\main\\res\\raw\\bdspeech_recognition_success.mp3"
+        "merged": "D:\\work\\GitHub\\XiaoBaiWthBaidu\\app\\build\\intermediates\\res\\merged\\debug\\raw\\bdspeech_recognition_cancel.mp3",
+        "source": "D:\\work\\GitHub\\XiaoBaiWthBaidu\\app\\src\\main\\res\\raw\\bdspeech_recognition_cancel.mp3"
     },
     {
-        "merged": "D:\\APP\\XiaoBaiWthBaidu\\app\\build\\intermediates\\res\\merged\\debug\\raw\\bdspeech_recognition_error.mp3",
-        "source": "D:\\APP\\XiaoBaiWthBaidu\\app\\src\\main\\res\\raw\\bdspeech_recognition_error.mp3"
+        "merged": "D:\\work\\GitHub\\XiaoBaiWthBaidu\\app\\build\\intermediates\\res\\merged\\debug\\raw\\beep.ogg",
+        "source": "D:\\work\\GitHub\\XiaoBaiWthBaidu\\app\\src\\main\\res\\raw\\beep.ogg"
     },
     {
-        "merged": "D:\\APP\\XiaoBaiWthBaidu\\app\\build\\intermediates\\res\\merged\\debug\\raw\\beep.ogg",
-        "source": "D:\\APP\\XiaoBaiWthBaidu\\app\\src\\main\\res\\raw\\beep.ogg"
+        "merged": "D:\\work\\GitHub\\XiaoBaiWthBaidu\\app\\build\\intermediates\\res\\merged\\debug\\raw\\teemo.mp3",
+        "source": "D:\\work\\GitHub\\XiaoBaiWthBaidu\\app\\src\\main\\res\\raw\\teemo.mp3"
     },
     {
-        "merged": "D:\\APP\\XiaoBaiWthBaidu\\app\\build\\intermediates\\res\\merged\\debug\\raw\\teemo.mp3",
-        "source": "D:\\APP\\XiaoBaiWthBaidu\\app\\src\\main\\res\\raw\\teemo.mp3"
+        "merged": "D:\\work\\GitHub\\XiaoBaiWthBaidu\\app\\build\\intermediates\\res\\merged\\debug\\raw\\bdspeech_speech_end.mp3",
+        "source": "D:\\work\\GitHub\\XiaoBaiWthBaidu\\app\\src\\main\\res\\raw\\bdspeech_speech_end.mp3"
     },
     {
-        "merged": "D:\\APP\\XiaoBaiWthBaidu\\app\\build\\intermediates\\res\\merged\\debug\\raw\\bdspeech_recognition_cancel.mp3",
-        "source": "D:\\APP\\XiaoBaiWthBaidu\\app\\src\\main\\res\\raw\\bdspeech_recognition_cancel.mp3"
+        "merged": "D:\\work\\GitHub\\XiaoBaiWthBaidu\\app\\build\\intermediates\\res\\merged\\debug\\raw\\bdspeech_recognition_success.mp3",
+        "source": "D:\\work\\GitHub\\XiaoBaiWthBaidu\\app\\src\\main\\res\\raw\\bdspeech_recognition_success.mp3"
     },
     {
-        "merged": "D:\\APP\\XiaoBaiWthBaidu\\app\\build\\intermediates\\res\\merged\\debug\\raw\\bdspeech_recognition_start.mp3",
-        "source": "D:\\APP\\XiaoBaiWthBaidu\\app\\src\\main\\res\\raw\\bdspeech_recognition_start.mp3"
+        "merged": "D:\\work\\GitHub\\XiaoBaiWthBaidu\\app\\build\\intermediates\\res\\merged\\debug\\raw\\bdspeech_recognition_error.mp3",
+        "source": "D:\\work\\GitHub\\XiaoBaiWthBaidu\\app\\src\\main\\res\\raw\\bdspeech_recognition_error.mp3"
     },
     {
-        "merged": "D:\\APP\\XiaoBaiWthBaidu\\app\\build\\intermediates\\res\\merged\\debug\\raw\\bdspeech_speech_end.mp3",
-        "source": "D:\\APP\\XiaoBaiWthBaidu\\app\\src\\main\\res\\raw\\bdspeech_speech_end.mp3"
+        "merged": "D:\\work\\GitHub\\XiaoBaiWthBaidu\\app\\build\\intermediates\\res\\merged\\debug\\raw\\bdspeech_recognition_start.mp3",
+        "source": "D:\\work\\GitHub\\XiaoBaiWthBaidu\\app\\src\\main\\res\\raw\\bdspeech_recognition_start.mp3"
     }
 ]

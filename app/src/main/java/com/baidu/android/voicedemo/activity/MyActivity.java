@@ -60,7 +60,7 @@ import java.util.HashMap;
 import java.util.List;
 import java.util.Map;
 
-public class MyActivity extends Activity implements View.OnClickListener,IStatus {
+public class MyActivity extends Activity implements View.OnClickListener, IStatus {
     private String TAG = "MyActivity";
     private Button btn_start;
 
@@ -128,7 +128,8 @@ public class MyActivity extends Activity implements View.OnClickListener,IStatus
     List<GatewayBean> gatewaylist = new ArrayList<>();
     List<SubDeviceBean> devicelist = new ArrayList<>();
     List<SceneBean> scenelist = new ArrayList<>();
-    MediaPlayer mediaPlayer;
+    MediaPlayer mediaPlayerBeep;
+    MediaPlayer mediaPlayerWakeup;
 
 
     @Override
@@ -161,9 +162,9 @@ public class MyActivity extends Activity implements View.OnClickListener,IStatus
 
         /*提示音*/
         setVolumeControlStream(AudioManager.STREAM_NOTIFICATION);
-        mediaPlayer = new MediaPlayer();
-        mediaPlayer.setAudioStreamType(AudioManager.STREAM_NOTIFICATION);
-        mediaPlayer.setOnCompletionListener(new MediaPlayer.OnCompletionListener() {
+        mediaPlayerBeep = new MediaPlayer();
+        mediaPlayerBeep.setAudioStreamType(AudioManager.STREAM_NOTIFICATION);
+        mediaPlayerBeep.setOnCompletionListener(new MediaPlayer.OnCompletionListener() {
             @Override
             public void onCompletion(MediaPlayer mediaPlayer) {
                 mediaPlayer.seekTo(0);
@@ -173,15 +174,44 @@ public class MyActivity extends Activity implements View.OnClickListener,IStatus
         AssetFileDescriptor fileDescriptor = getResources().openRawResourceFd(R.raw.beep);
 
         try {
-            mediaPlayer.setDataSource(fileDescriptor.getFileDescriptor(),
-                    fileDescriptor.getStartOffset(),fileDescriptor.getLength());
+            mediaPlayerBeep.setDataSource(fileDescriptor.getFileDescriptor(),
+                    fileDescriptor.getStartOffset(), fileDescriptor.getLength());
             fileDescriptor.close();
-            mediaPlayer.prepare();
+            mediaPlayerBeep.prepare();
         } catch (IOException e) {
             e.printStackTrace();
-            mediaPlayer = null;
+            mediaPlayerBeep = null;
         }
 
+
+        mediaPlayerWakeup = new MediaPlayer();
+        mediaPlayerWakeup.setAudioStreamType(AudioManager.STREAM_NOTIFICATION);
+        mediaPlayerWakeup.setOnCompletionListener(new MediaPlayer.OnCompletionListener() {
+            @Override
+            public void onCompletion(MediaPlayer mediaPlayer) {
+                mediaPlayer.seekTo(0);
+                switch (status) {
+                    case STATUS_NONE: // 初始状态
+                        start();
+                        status = STATUS_WAITING_READY;
+                        updateBtnTextByStatus();
+                        break;
+                }
+
+            }
+        });
+
+        AssetFileDescriptor fileDescriptor2 = getResources().openRawResourceFd(R.raw.teemo);
+
+        try {
+            mediaPlayerWakeup.setDataSource(fileDescriptor2.getFileDescriptor(),
+                    fileDescriptor2.getStartOffset(), fileDescriptor2.getLength());
+            fileDescriptor2.close();
+            mediaPlayerWakeup.prepare();
+        } catch (IOException e) {
+            e.printStackTrace();
+            mediaPlayerWakeup = null;
+        }
 
 
     }
@@ -324,8 +354,8 @@ public class MyActivity extends Activity implements View.OnClickListener,IStatus
      */
 
     protected void start() {
-        if(mediaPlayer!=null){
-            mediaPlayer.start();
+        if (mediaPlayerBeep != null) {
+            mediaPlayerBeep.start();
         }
 
         SharedPreferences sp = PreferenceManager.getDefaultSharedPreferences(this);
@@ -370,9 +400,6 @@ public class MyActivity extends Activity implements View.OnClickListener,IStatus
     }
 
 
-
-
-
     private CommonRecogParams getApiParams() {
         return new OnlineRecogParams(this);
     }
@@ -384,7 +411,7 @@ public class MyActivity extends Activity implements View.OnClickListener,IStatus
                 if (msg.arg2 == 1) {
 ///                   et_result.setText(msg.obj.toString());
 
-                    setlogNoSpace("语音指令: " + msg.obj.toString(), changeToOurWords(msg.obj.toString())+"\n");
+                    setlogNoSpace("语音指令: " + msg.obj.toString(), changeToOurWords(msg.obj.toString()) + "\n");
 
                     handlerBaiduYuyin(msg.obj.toString());
 
@@ -400,13 +427,9 @@ public class MyActivity extends Activity implements View.OnClickListener,IStatus
                 updateBtnTextByStatus();
                 break;
             case STATUS_WAKEUP_SUCCESS:
-                Log.i(TAG,"HHHH 语音唤醒成功");
-                switch (status) {
-                    case STATUS_NONE: // 初始状态
-                        start();
-                        status = STATUS_WAITING_READY;
-                        updateBtnTextByStatus();
-                        break;
+                Log.i(TAG, "HHHH 语音唤醒成功");
+                if (mediaPlayerWakeup != null) {
+                    mediaPlayerWakeup.start();
                 }
                 break;
             default:
@@ -418,8 +441,8 @@ public class MyActivity extends Activity implements View.OnClickListener,IStatus
     /*
         转换为拼音
      */
-    String changeToOurWords(String input){
-        String output=input;
+    String changeToOurWords(String input) {
+        String output = input;
 
         output = new PinyinSimilarity(false).changeOurWordsWithPinyin(output);
 
@@ -470,7 +493,7 @@ public class MyActivity extends Activity implements View.OnClickListener,IStatus
         myRecognizer.release();
         Log.i(TAG, "onDestory");
         super.onDestroy();
-                if (!running) {
+        if (!running) {
             myRecognizer.release();
         }
 
@@ -575,7 +598,7 @@ public class MyActivity extends Activity implements View.OnClickListener,IStatus
                     sceneBean = scenelist.get(i);
                 }
             }
-            if(sceneBean == null){
+            if (sceneBean == null) {
                 for (int i = 0; i < scenelist.size(); i++) {
                     String pinyin_scene = changeToOurWords(scene);
                     String pinyin_sceneInList = changeToOurWords(scenelist.get(i).getName());
@@ -725,9 +748,9 @@ public class MyActivity extends Activity implements View.OnClickListener,IStatus
                         deviceBean = devicelist.get(j);
                     }
                 }
-                if(!ishave){
+                if (!ishave) {
                     for (int j = 0; j < devicelist.size(); j++) {
-                        if(TextUtils.isEmpty(devicelist.get(j).getAlias()))
+                        if (TextUtils.isEmpty(devicelist.get(j).getAlias()))
                             continue;
                         String pinyin_device = changeToOurWords(device);
                         String pinyin_deviceInList = changeToOurWords(devicelist.get(j).getAlias());
@@ -752,9 +775,9 @@ public class MyActivity extends Activity implements View.OnClickListener,IStatus
                     }
                 }
 
-                if(!ishave){
+                if (!ishave) {
                     for (int j = 0; j < devicelist.size(); j++) {
-                        if(TextUtils.isEmpty(devicelist.get(j).getAlias()))
+                        if (TextUtils.isEmpty(devicelist.get(j).getAlias()))
                             continue;
                         String pinyin_device = changeToOurWords(device);
                         String pinyin_deviceInList = changeToOurWords(devicelist.get(j).getAlias());
@@ -810,7 +833,7 @@ public class MyActivity extends Activity implements View.OnClickListener,IStatus
 
         } else {
             Toast.makeText(this, "设备不存在", Toast.LENGTH_SHORT).show();
-            setlogNoSpace("设备 "+device,"不存在");
+            setlogNoSpace("设备 " + device, "不存在");
         }
     }
 
@@ -903,11 +926,11 @@ public class MyActivity extends Activity implements View.OnClickListener,IStatus
                         gatewayBean = gatewaylist.get(i);
                     }
                 }
-                if(gatewayBean ==null){
+                if (gatewayBean == null) {
                     for (int i = 0; i < gatewaylist.size(); i++) {
                         String pinyin_gateway = changeToOurWords(gateway);
                         String pinyin_gatewayInList = changeToOurWords(gatewaylist.get(i).getAlias());
-                        if (pinyin_gateway.equals(pinyin_gatewayInList) ) {
+                        if (pinyin_gateway.equals(pinyin_gatewayInList)) {
                             gatewayBean = gatewaylist.get(i);
                         }
                     }
@@ -1049,11 +1072,11 @@ public class MyActivity extends Activity implements View.OnClickListener,IStatus
                 // e.printStackTrace();
                 int dotIndex = -1;
                 dotIndex = input.indexOf(",");
-                if(dotIndex>0){
-                    final String mUser = input.substring(0,dotIndex);
-                    String mPwd = input.substring(dotIndex+1);
-                    Log.i(TAG,"{mUser:"+mUser+" mPwd:"+mPwd+"}");
-                    if(!TextUtils.isEmpty(mUser) && !TextUtils.isEmpty(mPwd)){
+                if (dotIndex > 0) {
+                    final String mUser = input.substring(0, dotIndex);
+                    String mPwd = input.substring(dotIndex + 1);
+                    Log.i(TAG, "{mUser:" + mUser + " mPwd:" + mPwd + "}");
+                    if (!TextUtils.isEmpty(mUser) && !TextUtils.isEmpty(mPwd)) {
                         canallGateway.mlogin(mUser, MD5Util.md5(mPwd), new ReqCallBack<String>() {
                             @Override
                             public void onReqSuccess(String s) {
@@ -1072,7 +1095,7 @@ public class MyActivity extends Activity implements View.OnClickListener,IStatus
                         });
                     }
 
-                }else {
+                } else {
                     setlog("登录", "错误的二维码格式");
                 }
             }
@@ -1222,7 +1245,7 @@ public class MyActivity extends Activity implements View.OnClickListener,IStatus
         } else if (devListIndex >= 0) {
             getDevice();
             canParse = true;
-        } else if(loginIndex >= 0){
+        } else if (loginIndex >= 0) {
             String input = et_input.getText().toString();
             login(input);
             canParse = true;
@@ -1233,8 +1256,6 @@ public class MyActivity extends Activity implements View.OnClickListener,IStatus
         }
 
     }
-
-
 
 
     // 点击“开始识别”按钮

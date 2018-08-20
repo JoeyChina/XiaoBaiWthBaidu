@@ -1,327 +1,327 @@
 -- Merging decision tree log ---
 manifest
-ADDED from D:\APP\XiaoBaiWthBaidu\app\src\main\AndroidManifest.xml:1:1-211:12
+ADDED from D:\work\GitHub\XiaoBaiWthBaidu\app\src\main\AndroidManifest.xml:1:1-211:12
 	package
-		ADDED from D:\APP\XiaoBaiWthBaidu\app\src\main\AndroidManifest.xml:2:5-39
-		INJECTED from D:\APP\XiaoBaiWthBaidu\app\src\main\AndroidManifest.xml
-		INJECTED from D:\APP\XiaoBaiWthBaidu\app\src\main\AndroidManifest.xml
+		ADDED from D:\work\GitHub\XiaoBaiWthBaidu\app\src\main\AndroidManifest.xml:2:5-39
+		INJECTED from D:\work\GitHub\XiaoBaiWthBaidu\app\src\main\AndroidManifest.xml
+		INJECTED from D:\work\GitHub\XiaoBaiWthBaidu\app\src\main\AndroidManifest.xml
 	android:versionName
-		ADDED from D:\APP\XiaoBaiWthBaidu\app\src\main\AndroidManifest.xml:4:5-30
-		INJECTED from D:\APP\XiaoBaiWthBaidu\app\src\main\AndroidManifest.xml
-		INJECTED from D:\APP\XiaoBaiWthBaidu\app\src\main\AndroidManifest.xml
+		ADDED from D:\work\GitHub\XiaoBaiWthBaidu\app\src\main\AndroidManifest.xml:4:5-30
+		INJECTED from D:\work\GitHub\XiaoBaiWthBaidu\app\src\main\AndroidManifest.xml
+		INJECTED from D:\work\GitHub\XiaoBaiWthBaidu\app\src\main\AndroidManifest.xml
 	android:versionCode
-		ADDED from D:\APP\XiaoBaiWthBaidu\app\src\main\AndroidManifest.xml:3:5-28
-		INJECTED from D:\APP\XiaoBaiWthBaidu\app\src\main\AndroidManifest.xml
-		INJECTED from D:\APP\XiaoBaiWthBaidu\app\src\main\AndroidManifest.xml
+		ADDED from D:\work\GitHub\XiaoBaiWthBaidu\app\src\main\AndroidManifest.xml:3:5-28
+		INJECTED from D:\work\GitHub\XiaoBaiWthBaidu\app\src\main\AndroidManifest.xml
+		INJECTED from D:\work\GitHub\XiaoBaiWthBaidu\app\src\main\AndroidManifest.xml
 	xmlns:android
-		ADDED from D:\APP\XiaoBaiWthBaidu\app\src\main\AndroidManifest.xml:1:11-69
+		ADDED from D:\work\GitHub\XiaoBaiWthBaidu\app\src\main\AndroidManifest.xml:1:11-69
 uses-sdk
-ADDED from D:\APP\XiaoBaiWthBaidu\app\src\main\AndroidManifest.xml:6:5-8:41
-MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\Administrator\.android\build-cache\8afab530a9623dbadf91fc2b2c83c329087c60a7\output\AndroidManifest.xml:21:5-23:78
-MERGED from [com.android.support:support-v4:25.3.1] C:\Users\Administrator\.android\build-cache\b487a666d32b87d6ab6d8a907e8edf0c816175bf\output\AndroidManifest.xml:21:5-23:54
-MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\Administrator\.android\build-cache\d4fbb4ed2ea794ceb0d453416ebfbff42e645fa8\output\AndroidManifest.xml:21:5-23:60
-MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\Administrator\.android\build-cache\9fc7bd423b823960f2cc72042335884def4aec22\output\AndroidManifest.xml:21:5-23:63
-MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\Administrator\.android\build-cache\ab47603130756c929f27d84cf903561deaf7c179\output\AndroidManifest.xml:21:5-23:58
-MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\Administrator\.android\build-cache\585a91520a02428cf9fb8fa7519adf7f11af3d39\output\AndroidManifest.xml:21:5-23:61
-MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\Administrator\.android\build-cache\d5d548529c94eeb1f10fff1eae72f35c4d763d6f\output\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\Administrator\.android\build-cache\bce55b1644c10b27b1c40e415e318dd4616879aa\output\AndroidManifest.xml:20:5-43
-MERGED from [com.android.support:support-compat:25.3.1] C:\Users\Administrator\.android\build-cache\702e0f11ee0efd9fcd28850379c4313dd6f9576d\output\AndroidManifest.xml:21:5-23:58
+ADDED from D:\work\GitHub\XiaoBaiWthBaidu\app\src\main\AndroidManifest.xml:6:5-8:41
+MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\Joey\.android\build-cache\db10831a932c5682c37ea2a902c8b18448cfd357\output\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\Joey\.android\build-cache\a92c079bdf025fd61b285fbe20273faba1521239\output\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\Joey\.android\build-cache\eac6c21ed92fefa563c7b4d575b2bd232e39ecc3\output\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\Joey\.android\build-cache\e0c7648a3152000f3ea78842f214a888955a1e04\output\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\Joey\.android\build-cache\4b718fb77a050da6ddf720e4de3855c285ba69b4\output\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\Joey\.android\build-cache\304d02d3f2cd16cb5ddf3d5a7d34cf810a857437\output\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\Joey\.android\build-cache\544bc365da8f5d91b7e663ffd7a32108ae7494c7\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\Joey\.android\build-cache\aa1b2061886ee5c378c71fbe88af0adbb88ad0e5\output\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\Joey\.android\build-cache\81ce38bb54cb1e52594a3c9c108717c383bb99c0\output\AndroidManifest.xml:21:5-23:58
 	tools:overrideLibrary
-		ADDED from [com.android.support:appcompat-v7:25.3.1] C:\Users\Administrator\.android\build-cache\8afab530a9623dbadf91fc2b2c83c329087c60a7\output\AndroidManifest.xml:23:9-75
+		ADDED from [com.android.support:appcompat-v7:25.3.1] C:\Users\Joey\.android\build-cache\db10831a932c5682c37ea2a902c8b18448cfd357\output\AndroidManifest.xml:23:9-75
 	android:targetSdkVersion
-		ADDED from D:\APP\XiaoBaiWthBaidu\app\src\main\AndroidManifest.xml:8:9-38
-		INJECTED from D:\APP\XiaoBaiWthBaidu\app\src\main\AndroidManifest.xml
-		INJECTED from D:\APP\XiaoBaiWthBaidu\app\src\main\AndroidManifest.xml
+		ADDED from D:\work\GitHub\XiaoBaiWthBaidu\app\src\main\AndroidManifest.xml:8:9-38
+		INJECTED from D:\work\GitHub\XiaoBaiWthBaidu\app\src\main\AndroidManifest.xml
+		INJECTED from D:\work\GitHub\XiaoBaiWthBaidu\app\src\main\AndroidManifest.xml
 	android:minSdkVersion
-		ADDED from D:\APP\XiaoBaiWthBaidu\app\src\main\AndroidManifest.xml:7:9-35
-		INJECTED from D:\APP\XiaoBaiWthBaidu\app\src\main\AndroidManifest.xml
-		INJECTED from D:\APP\XiaoBaiWthBaidu\app\src\main\AndroidManifest.xml
+		ADDED from D:\work\GitHub\XiaoBaiWthBaidu\app\src\main\AndroidManifest.xml:7:9-35
+		INJECTED from D:\work\GitHub\XiaoBaiWthBaidu\app\src\main\AndroidManifest.xml
+		INJECTED from D:\work\GitHub\XiaoBaiWthBaidu\app\src\main\AndroidManifest.xml
 instrumentation
-ADDED from D:\APP\XiaoBaiWthBaidu\app\src\main\AndroidManifest.xml:10:5-13:60
+ADDED from D:\work\GitHub\XiaoBaiWthBaidu\app\src\main\AndroidManifest.xml:10:5-13:60
 	android:label
-		ADDED from D:\APP\XiaoBaiWthBaidu\app\src\main\AndroidManifest.xml:12:9-66
+		ADDED from D:\work\GitHub\XiaoBaiWthBaidu\app\src\main\AndroidManifest.xml:12:9-66
 	android:targetPackage
-		ADDED from D:\APP\XiaoBaiWthBaidu\app\src\main\AndroidManifest.xml:13:9-57
+		ADDED from D:\work\GitHub\XiaoBaiWthBaidu\app\src\main\AndroidManifest.xml:13:9-57
 	android:name
-		ADDED from D:\APP\XiaoBaiWthBaidu\app\src\main\AndroidManifest.xml:11:9-62
+		ADDED from D:\work\GitHub\XiaoBaiWthBaidu\app\src\main\AndroidManifest.xml:11:9-62
 uses-permission#android.permission.RECORD_AUDIO
-ADDED from D:\APP\XiaoBaiWthBaidu\app\src\main\AndroidManifest.xml:15:5-71
+ADDED from D:\work\GitHub\XiaoBaiWthBaidu\app\src\main\AndroidManifest.xml:15:5-71
 	android:name
-		ADDED from D:\APP\XiaoBaiWthBaidu\app\src\main\AndroidManifest.xml:15:22-68
+		ADDED from D:\work\GitHub\XiaoBaiWthBaidu\app\src\main\AndroidManifest.xml:15:22-68
 uses-permission#android.permission.ACCESS_NETWORK_STATE
-ADDED from D:\APP\XiaoBaiWthBaidu\app\src\main\AndroidManifest.xml:16:5-79
+ADDED from D:\work\GitHub\XiaoBaiWthBaidu\app\src\main\AndroidManifest.xml:16:5-79
 	android:name
-		ADDED from D:\APP\XiaoBaiWthBaidu\app\src\main\AndroidManifest.xml:16:22-76
+		ADDED from D:\work\GitHub\XiaoBaiWthBaidu\app\src\main\AndroidManifest.xml:16:22-76
 uses-permission#android.permission.INTERNET
-ADDED from D:\APP\XiaoBaiWthBaidu\app\src\main\AndroidManifest.xml:17:5-67
+ADDED from D:\work\GitHub\XiaoBaiWthBaidu\app\src\main\AndroidManifest.xml:17:5-67
 	android:name
-		ADDED from D:\APP\XiaoBaiWthBaidu\app\src\main\AndroidManifest.xml:17:22-64
+		ADDED from D:\work\GitHub\XiaoBaiWthBaidu\app\src\main\AndroidManifest.xml:17:22-64
 uses-permission#android.permission.READ_PHONE_STATE
-ADDED from D:\APP\XiaoBaiWthBaidu\app\src\main\AndroidManifest.xml:18:5-75
+ADDED from D:\work\GitHub\XiaoBaiWthBaidu\app\src\main\AndroidManifest.xml:18:5-75
 	android:name
-		ADDED from D:\APP\XiaoBaiWthBaidu\app\src\main\AndroidManifest.xml:18:22-72
+		ADDED from D:\work\GitHub\XiaoBaiWthBaidu\app\src\main\AndroidManifest.xml:18:22-72
 uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
-ADDED from D:\APP\XiaoBaiWthBaidu\app\src\main\AndroidManifest.xml:19:5-81
+ADDED from D:\work\GitHub\XiaoBaiWthBaidu\app\src\main\AndroidManifest.xml:19:5-81
 	android:name
-		ADDED from D:\APP\XiaoBaiWthBaidu\app\src\main\AndroidManifest.xml:19:22-78
+		ADDED from D:\work\GitHub\XiaoBaiWthBaidu\app\src\main\AndroidManifest.xml:19:22-78
 application
-ADDED from D:\APP\XiaoBaiWthBaidu\app\src\main\AndroidManifest.xml:21:5-210:19
-MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\Administrator\.android\build-cache\8afab530a9623dbadf91fc2b2c83c329087c60a7\output\AndroidManifest.xml:29:5-20
-MERGED from [com.android.support:support-v4:25.3.1] C:\Users\Administrator\.android\build-cache\b487a666d32b87d6ab6d8a907e8edf0c816175bf\output\AndroidManifest.xml:29:5-20
-MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\Administrator\.android\build-cache\d4fbb4ed2ea794ceb0d453416ebfbff42e645fa8\output\AndroidManifest.xml:29:5-20
-MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\Administrator\.android\build-cache\9fc7bd423b823960f2cc72042335884def4aec22\output\AndroidManifest.xml:29:5-20
-MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\Administrator\.android\build-cache\ab47603130756c929f27d84cf903561deaf7c179\output\AndroidManifest.xml:29:5-20
-MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\Administrator\.android\build-cache\585a91520a02428cf9fb8fa7519adf7f11af3d39\output\AndroidManifest.xml:29:5-20
-MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\Administrator\.android\build-cache\d5d548529c94eeb1f10fff1eae72f35c4d763d6f\output\AndroidManifest.xml:26:5-20
-MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\Administrator\.android\build-cache\bce55b1644c10b27b1c40e415e318dd4616879aa\output\AndroidManifest.xml:26:5-20
-MERGED from [com.android.support:support-compat:25.3.1] C:\Users\Administrator\.android\build-cache\702e0f11ee0efd9fcd28850379c4313dd6f9576d\output\AndroidManifest.xml:29:5-20
+ADDED from D:\work\GitHub\XiaoBaiWthBaidu\app\src\main\AndroidManifest.xml:21:5-210:19
+MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\Joey\.android\build-cache\db10831a932c5682c37ea2a902c8b18448cfd357\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\Joey\.android\build-cache\a92c079bdf025fd61b285fbe20273faba1521239\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\Joey\.android\build-cache\eac6c21ed92fefa563c7b4d575b2bd232e39ecc3\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\Joey\.android\build-cache\e0c7648a3152000f3ea78842f214a888955a1e04\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\Joey\.android\build-cache\4b718fb77a050da6ddf720e4de3855c285ba69b4\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\Joey\.android\build-cache\304d02d3f2cd16cb5ddf3d5a7d34cf810a857437\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\Joey\.android\build-cache\544bc365da8f5d91b7e663ffd7a32108ae7494c7\output\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\Joey\.android\build-cache\aa1b2061886ee5c378c71fbe88af0adbb88ad0e5\output\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\Joey\.android\build-cache\81ce38bb54cb1e52594a3c9c108717c383bb99c0\output\AndroidManifest.xml:29:5-20
 	android:label
-		ADDED from D:\APP\XiaoBaiWthBaidu\app\src\main\AndroidManifest.xml:24:9-41
+		ADDED from D:\work\GitHub\XiaoBaiWthBaidu\app\src\main\AndroidManifest.xml:24:9-41
 	android:icon
-		ADDED from D:\APP\XiaoBaiWthBaidu\app\src\main\AndroidManifest.xml:23:9-46
+		ADDED from D:\work\GitHub\XiaoBaiWthBaidu\app\src\main\AndroidManifest.xml:23:9-46
 	android:theme
-		ADDED from D:\APP\XiaoBaiWthBaidu\app\src\main\AndroidManifest.xml:25:9-47
+		ADDED from D:\work\GitHub\XiaoBaiWthBaidu\app\src\main\AndroidManifest.xml:25:9-47
 	android:name
-		ADDED from D:\APP\XiaoBaiWthBaidu\app\src\main\AndroidManifest.xml:22:9-84
+		ADDED from D:\work\GitHub\XiaoBaiWthBaidu\app\src\main\AndroidManifest.xml:22:9-84
 meta-data#com.baidu.speech.APP_ID
-ADDED from D:\APP\XiaoBaiWthBaidu\app\src\main\AndroidManifest.xml:41:9-43:40
+ADDED from D:\work\GitHub\XiaoBaiWthBaidu\app\src\main\AndroidManifest.xml:41:9-43:40
 	android:value
-		ADDED from D:\APP\XiaoBaiWthBaidu\app\src\main\AndroidManifest.xml:43:13-37
+		ADDED from D:\work\GitHub\XiaoBaiWthBaidu\app\src\main\AndroidManifest.xml:43:13-37
 	android:name
-		ADDED from D:\APP\XiaoBaiWthBaidu\app\src\main\AndroidManifest.xml:42:13-51
+		ADDED from D:\work\GitHub\XiaoBaiWthBaidu\app\src\main\AndroidManifest.xml:42:13-51
 meta-data#com.baidu.speech.API_KEY
-ADDED from D:\APP\XiaoBaiWthBaidu\app\src\main\AndroidManifest.xml:44:9-46:56
+ADDED from D:\work\GitHub\XiaoBaiWthBaidu\app\src\main\AndroidManifest.xml:44:9-46:56
 	android:value
-		ADDED from D:\APP\XiaoBaiWthBaidu\app\src\main\AndroidManifest.xml:46:13-53
+		ADDED from D:\work\GitHub\XiaoBaiWthBaidu\app\src\main\AndroidManifest.xml:46:13-53
 	android:name
-		ADDED from D:\APP\XiaoBaiWthBaidu\app\src\main\AndroidManifest.xml:45:13-52
+		ADDED from D:\work\GitHub\XiaoBaiWthBaidu\app\src\main\AndroidManifest.xml:45:13-52
 meta-data#com.baidu.speech.SECRET_KEY
-ADDED from D:\APP\XiaoBaiWthBaidu\app\src\main\AndroidManifest.xml:47:9-49:64
+ADDED from D:\work\GitHub\XiaoBaiWthBaidu\app\src\main\AndroidManifest.xml:47:9-49:64
 	android:value
-		ADDED from D:\APP\XiaoBaiWthBaidu\app\src\main\AndroidManifest.xml:49:13-61
+		ADDED from D:\work\GitHub\XiaoBaiWthBaidu\app\src\main\AndroidManifest.xml:49:13-61
 	android:name
-		ADDED from D:\APP\XiaoBaiWthBaidu\app\src\main\AndroidManifest.xml:48:13-55
+		ADDED from D:\work\GitHub\XiaoBaiWthBaidu\app\src\main\AndroidManifest.xml:48:13-55
 service#com.baidu.speech.VoiceRecognitionService
-ADDED from D:\APP\XiaoBaiWthBaidu\app\src\main\AndroidManifest.xml:51:9-53:40
+ADDED from D:\work\GitHub\XiaoBaiWthBaidu\app\src\main\AndroidManifest.xml:51:9-53:40
 	android:exported
-		ADDED from D:\APP\XiaoBaiWthBaidu\app\src\main\AndroidManifest.xml:53:13-37
+		ADDED from D:\work\GitHub\XiaoBaiWthBaidu\app\src\main\AndroidManifest.xml:53:13-37
 	android:name
-		ADDED from D:\APP\XiaoBaiWthBaidu\app\src\main\AndroidManifest.xml:52:13-68
+		ADDED from D:\work\GitHub\XiaoBaiWthBaidu\app\src\main\AndroidManifest.xml:52:13-68
 activity#com.baidu.android.voicedemo.activity.ActivityMain
-ADDED from D:\APP\XiaoBaiWthBaidu\app\src\main\AndroidManifest.xml:55:9-64:20
+ADDED from D:\work\GitHub\XiaoBaiWthBaidu\app\src\main\AndroidManifest.xml:55:9-64:20
 	android:screenOrientation
-		ADDED from D:\APP\XiaoBaiWthBaidu\app\src\main\AndroidManifest.xml:58:13-49
+		ADDED from D:\work\GitHub\XiaoBaiWthBaidu\app\src\main\AndroidManifest.xml:58:13-49
 	android:configChanges
-		ADDED from D:\APP\XiaoBaiWthBaidu\app\src\main\AndroidManifest.xml:57:13-76
+		ADDED from D:\work\GitHub\XiaoBaiWthBaidu\app\src\main\AndroidManifest.xml:57:13-76
 	android:theme
-		ADDED from D:\APP\XiaoBaiWthBaidu\app\src\main\AndroidManifest.xml:59:13-69
+		ADDED from D:\work\GitHub\XiaoBaiWthBaidu\app\src\main\AndroidManifest.xml:59:13-69
 	android:name
-		ADDED from D:\APP\XiaoBaiWthBaidu\app\src\main\AndroidManifest.xml:56:13-77
+		ADDED from D:\work\GitHub\XiaoBaiWthBaidu\app\src\main\AndroidManifest.xml:56:13-77
 intent-filter#android.intent.action.MAIN
-ADDED from D:\APP\XiaoBaiWthBaidu\app\src\main\AndroidManifest.xml:60:13-63:29
+ADDED from D:\work\GitHub\XiaoBaiWthBaidu\app\src\main\AndroidManifest.xml:60:13-63:29
 action#android.intent.action.MAIN
-ADDED from D:\APP\XiaoBaiWthBaidu\app\src\main\AndroidManifest.xml:61:17-69
+ADDED from D:\work\GitHub\XiaoBaiWthBaidu\app\src\main\AndroidManifest.xml:61:17-69
 	android:name
-		ADDED from D:\APP\XiaoBaiWthBaidu\app\src\main\AndroidManifest.xml:61:25-66
+		ADDED from D:\work\GitHub\XiaoBaiWthBaidu\app\src\main\AndroidManifest.xml:61:25-66
 activity#com.baidu.android.voicedemo.activity.ActivityOnline
-ADDED from D:\APP\XiaoBaiWthBaidu\app\src\main\AndroidManifest.xml:65:9-74:20
+ADDED from D:\work\GitHub\XiaoBaiWthBaidu\app\src\main\AndroidManifest.xml:65:9-74:20
 	android:screenOrientation
-		ADDED from D:\APP\XiaoBaiWthBaidu\app\src\main\AndroidManifest.xml:69:13-49
+		ADDED from D:\work\GitHub\XiaoBaiWthBaidu\app\src\main\AndroidManifest.xml:69:13-49
 	android:label
-		ADDED from D:\APP\XiaoBaiWthBaidu\app\src\main\AndroidManifest.xml:68:13-33
+		ADDED from D:\work\GitHub\XiaoBaiWthBaidu\app\src\main\AndroidManifest.xml:68:13-33
 	android:configChanges
-		ADDED from D:\APP\XiaoBaiWthBaidu\app\src\main\AndroidManifest.xml:67:13-76
+		ADDED from D:\work\GitHub\XiaoBaiWthBaidu\app\src\main\AndroidManifest.xml:67:13-76
 	android:name
-		ADDED from D:\APP\XiaoBaiWthBaidu\app\src\main\AndroidManifest.xml:66:13-79
+		ADDED from D:\work\GitHub\XiaoBaiWthBaidu\app\src\main\AndroidManifest.xml:66:13-79
 intent-filter#android.intent.action.MAIN+com.baidu.speech.recognizerdemo.intent.category.SAMPLE_CODE
-ADDED from D:\APP\XiaoBaiWthBaidu\app\src\main\AndroidManifest.xml:70:13-73:29
+ADDED from D:\work\GitHub\XiaoBaiWthBaidu\app\src\main\AndroidManifest.xml:70:13-73:29
 category#com.baidu.speech.recognizerdemo.intent.category.SAMPLE_CODE
-ADDED from D:\APP\XiaoBaiWthBaidu\app\src\main\AndroidManifest.xml:72:17-104
+ADDED from D:\work\GitHub\XiaoBaiWthBaidu\app\src\main\AndroidManifest.xml:72:17-104
 	android:name
-		ADDED from D:\APP\XiaoBaiWthBaidu\app\src\main\AndroidManifest.xml:72:27-101
+		ADDED from D:\work\GitHub\XiaoBaiWthBaidu\app\src\main\AndroidManifest.xml:72:27-101
 activity#com.baidu.android.voicedemo.activity.ActivityOffline
-ADDED from D:\APP\XiaoBaiWthBaidu\app\src\main\AndroidManifest.xml:75:9-84:20
+ADDED from D:\work\GitHub\XiaoBaiWthBaidu\app\src\main\AndroidManifest.xml:75:9-84:20
 	android:screenOrientation
-		ADDED from D:\APP\XiaoBaiWthBaidu\app\src\main\AndroidManifest.xml:79:13-49
+		ADDED from D:\work\GitHub\XiaoBaiWthBaidu\app\src\main\AndroidManifest.xml:79:13-49
 	android:label
-		ADDED from D:\APP\XiaoBaiWthBaidu\app\src\main\AndroidManifest.xml:78:13-34
+		ADDED from D:\work\GitHub\XiaoBaiWthBaidu\app\src\main\AndroidManifest.xml:78:13-34
 	android:configChanges
-		ADDED from D:\APP\XiaoBaiWthBaidu\app\src\main\AndroidManifest.xml:77:13-76
+		ADDED from D:\work\GitHub\XiaoBaiWthBaidu\app\src\main\AndroidManifest.xml:77:13-76
 	android:name
-		ADDED from D:\APP\XiaoBaiWthBaidu\app\src\main\AndroidManifest.xml:76:13-80
+		ADDED from D:\work\GitHub\XiaoBaiWthBaidu\app\src\main\AndroidManifest.xml:76:13-80
 activity#com.baidu.android.voicedemo.activity.ActivityNlu
-ADDED from D:\APP\XiaoBaiWthBaidu\app\src\main\AndroidManifest.xml:85:9-94:20
+ADDED from D:\work\GitHub\XiaoBaiWthBaidu\app\src\main\AndroidManifest.xml:85:9-94:20
 	android:screenOrientation
-		ADDED from D:\APP\XiaoBaiWthBaidu\app\src\main\AndroidManifest.xml:89:13-49
+		ADDED from D:\work\GitHub\XiaoBaiWthBaidu\app\src\main\AndroidManifest.xml:89:13-49
 	android:label
-		ADDED from D:\APP\XiaoBaiWthBaidu\app\src\main\AndroidManifest.xml:88:13-40
+		ADDED from D:\work\GitHub\XiaoBaiWthBaidu\app\src\main\AndroidManifest.xml:88:13-40
 	android:configChanges
-		ADDED from D:\APP\XiaoBaiWthBaidu\app\src\main\AndroidManifest.xml:87:13-76
+		ADDED from D:\work\GitHub\XiaoBaiWthBaidu\app\src\main\AndroidManifest.xml:87:13-76
 	android:name
-		ADDED from D:\APP\XiaoBaiWthBaidu\app\src\main\AndroidManifest.xml:86:13-76
+		ADDED from D:\work\GitHub\XiaoBaiWthBaidu\app\src\main\AndroidManifest.xml:86:13-76
 activity#com.baidu.android.voicedemo.activity.ActivityAllRecog
-ADDED from D:\APP\XiaoBaiWthBaidu\app\src\main\AndroidManifest.xml:95:9-104:20
+ADDED from D:\work\GitHub\XiaoBaiWthBaidu\app\src\main\AndroidManifest.xml:95:9-104:20
 	android:screenOrientation
-		ADDED from D:\APP\XiaoBaiWthBaidu\app\src\main\AndroidManifest.xml:99:13-49
+		ADDED from D:\work\GitHub\XiaoBaiWthBaidu\app\src\main\AndroidManifest.xml:99:13-49
 	android:label
-		ADDED from D:\APP\XiaoBaiWthBaidu\app\src\main\AndroidManifest.xml:98:13-35
+		ADDED from D:\work\GitHub\XiaoBaiWthBaidu\app\src\main\AndroidManifest.xml:98:13-35
 	android:configChanges
-		ADDED from D:\APP\XiaoBaiWthBaidu\app\src\main\AndroidManifest.xml:97:13-76
+		ADDED from D:\work\GitHub\XiaoBaiWthBaidu\app\src\main\AndroidManifest.xml:97:13-76
 	android:name
-		ADDED from D:\APP\XiaoBaiWthBaidu\app\src\main\AndroidManifest.xml:96:13-81
+		ADDED from D:\work\GitHub\XiaoBaiWthBaidu\app\src\main\AndroidManifest.xml:96:13-81
 activity#com.baidu.android.voicedemo.activity.ActivityWakeUp
-ADDED from D:\APP\XiaoBaiWthBaidu\app\src\main\AndroidManifest.xml:105:9-114:20
+ADDED from D:\work\GitHub\XiaoBaiWthBaidu\app\src\main\AndroidManifest.xml:105:9-114:20
 	android:screenOrientation
-		ADDED from D:\APP\XiaoBaiWthBaidu\app\src\main\AndroidManifest.xml:109:13-49
+		ADDED from D:\work\GitHub\XiaoBaiWthBaidu\app\src\main\AndroidManifest.xml:109:13-49
 	android:label
-		ADDED from D:\APP\XiaoBaiWthBaidu\app\src\main\AndroidManifest.xml:108:13-32
+		ADDED from D:\work\GitHub\XiaoBaiWthBaidu\app\src\main\AndroidManifest.xml:108:13-32
 	android:configChanges
-		ADDED from D:\APP\XiaoBaiWthBaidu\app\src\main\AndroidManifest.xml:107:13-76
+		ADDED from D:\work\GitHub\XiaoBaiWthBaidu\app\src\main\AndroidManifest.xml:107:13-76
 	android:name
-		ADDED from D:\APP\XiaoBaiWthBaidu\app\src\main\AndroidManifest.xml:106:13-79
+		ADDED from D:\work\GitHub\XiaoBaiWthBaidu\app\src\main\AndroidManifest.xml:106:13-79
 activity#com.baidu.android.voicedemo.activity.ActivityWakeUpRecog
-ADDED from D:\APP\XiaoBaiWthBaidu\app\src\main\AndroidManifest.xml:115:9-124:20
+ADDED from D:\work\GitHub\XiaoBaiWthBaidu\app\src\main\AndroidManifest.xml:115:9-124:20
 	android:screenOrientation
-		ADDED from D:\APP\XiaoBaiWthBaidu\app\src\main\AndroidManifest.xml:119:13-49
+		ADDED from D:\work\GitHub\XiaoBaiWthBaidu\app\src\main\AndroidManifest.xml:119:13-49
 	android:label
-		ADDED from D:\APP\XiaoBaiWthBaidu\app\src\main\AndroidManifest.xml:118:13-34
+		ADDED from D:\work\GitHub\XiaoBaiWthBaidu\app\src\main\AndroidManifest.xml:118:13-34
 	android:configChanges
-		ADDED from D:\APP\XiaoBaiWthBaidu\app\src\main\AndroidManifest.xml:117:13-76
+		ADDED from D:\work\GitHub\XiaoBaiWthBaidu\app\src\main\AndroidManifest.xml:117:13-76
 	android:name
-		ADDED from D:\APP\XiaoBaiWthBaidu\app\src\main\AndroidManifest.xml:116:13-84
+		ADDED from D:\work\GitHub\XiaoBaiWthBaidu\app\src\main\AndroidManifest.xml:116:13-84
 activity#com.baidu.android.voicedemo.activity.mini.ActivityMiniRecog
-ADDED from D:\APP\XiaoBaiWthBaidu\app\src\main\AndroidManifest.xml:125:9-134:20
+ADDED from D:\work\GitHub\XiaoBaiWthBaidu\app\src\main\AndroidManifest.xml:125:9-134:20
 	android:screenOrientation
-		ADDED from D:\APP\XiaoBaiWthBaidu\app\src\main\AndroidManifest.xml:129:13-49
+		ADDED from D:\work\GitHub\XiaoBaiWthBaidu\app\src\main\AndroidManifest.xml:129:13-49
 	android:label
-		ADDED from D:\APP\XiaoBaiWthBaidu\app\src\main\AndroidManifest.xml:128:13-34
+		ADDED from D:\work\GitHub\XiaoBaiWthBaidu\app\src\main\AndroidManifest.xml:128:13-34
 	android:configChanges
-		ADDED from D:\APP\XiaoBaiWthBaidu\app\src\main\AndroidManifest.xml:127:13-76
+		ADDED from D:\work\GitHub\XiaoBaiWthBaidu\app\src\main\AndroidManifest.xml:127:13-76
 	android:name
-		ADDED from D:\APP\XiaoBaiWthBaidu\app\src\main\AndroidManifest.xml:126:13-87
+		ADDED from D:\work\GitHub\XiaoBaiWthBaidu\app\src\main\AndroidManifest.xml:126:13-87
 activity#com.baidu.android.voicedemo.activity.ActivityUiDialog
-ADDED from D:\APP\XiaoBaiWthBaidu\app\src\main\AndroidManifest.xml:135:9-144:20
+ADDED from D:\work\GitHub\XiaoBaiWthBaidu\app\src\main\AndroidManifest.xml:135:9-144:20
 	android:screenOrientation
-		ADDED from D:\APP\XiaoBaiWthBaidu\app\src\main\AndroidManifest.xml:139:13-49
+		ADDED from D:\work\GitHub\XiaoBaiWthBaidu\app\src\main\AndroidManifest.xml:139:13-49
 	android:label
-		ADDED from D:\APP\XiaoBaiWthBaidu\app\src\main\AndroidManifest.xml:138:13-36
+		ADDED from D:\work\GitHub\XiaoBaiWthBaidu\app\src\main\AndroidManifest.xml:138:13-36
 	android:configChanges
-		ADDED from D:\APP\XiaoBaiWthBaidu\app\src\main\AndroidManifest.xml:137:13-76
+		ADDED from D:\work\GitHub\XiaoBaiWthBaidu\app\src\main\AndroidManifest.xml:137:13-76
 	android:name
-		ADDED from D:\APP\XiaoBaiWthBaidu\app\src\main\AndroidManifest.xml:136:13-81
+		ADDED from D:\work\GitHub\XiaoBaiWthBaidu\app\src\main\AndroidManifest.xml:136:13-81
 activity#com.baidu.android.voicedemo.activity.mini.ActivityMiniWakeUp
-ADDED from D:\APP\XiaoBaiWthBaidu\app\src\main\AndroidManifest.xml:145:9-154:20
+ADDED from D:\work\GitHub\XiaoBaiWthBaidu\app\src\main\AndroidManifest.xml:145:9-154:20
 	android:screenOrientation
-		ADDED from D:\APP\XiaoBaiWthBaidu\app\src\main\AndroidManifest.xml:149:13-49
+		ADDED from D:\work\GitHub\XiaoBaiWthBaidu\app\src\main\AndroidManifest.xml:149:13-49
 	android:label
-		ADDED from D:\APP\XiaoBaiWthBaidu\app\src\main\AndroidManifest.xml:148:13-35
+		ADDED from D:\work\GitHub\XiaoBaiWthBaidu\app\src\main\AndroidManifest.xml:148:13-35
 	android:configChanges
-		ADDED from D:\APP\XiaoBaiWthBaidu\app\src\main\AndroidManifest.xml:147:13-76
+		ADDED from D:\work\GitHub\XiaoBaiWthBaidu\app\src\main\AndroidManifest.xml:147:13-76
 	android:name
-		ADDED from D:\APP\XiaoBaiWthBaidu\app\src\main\AndroidManifest.xml:146:13-88
+		ADDED from D:\work\GitHub\XiaoBaiWthBaidu\app\src\main\AndroidManifest.xml:146:13-88
 activity#com.baidu.android.voicedemo.activity.mini.ActivityMiniTest
-ADDED from D:\APP\XiaoBaiWthBaidu\app\src\main\AndroidManifest.xml:155:9-164:20
+ADDED from D:\work\GitHub\XiaoBaiWthBaidu\app\src\main\AndroidManifest.xml:155:9-164:20
 	android:screenOrientation
-		ADDED from D:\APP\XiaoBaiWthBaidu\app\src\main\AndroidManifest.xml:159:13-49
+		ADDED from D:\work\GitHub\XiaoBaiWthBaidu\app\src\main\AndroidManifest.xml:159:13-49
 	android:label
-		ADDED from D:\APP\XiaoBaiWthBaidu\app\src\main\AndroidManifest.xml:158:13-39
+		ADDED from D:\work\GitHub\XiaoBaiWthBaidu\app\src\main\AndroidManifest.xml:158:13-39
 	android:configChanges
-		ADDED from D:\APP\XiaoBaiWthBaidu\app\src\main\AndroidManifest.xml:157:13-76
+		ADDED from D:\work\GitHub\XiaoBaiWthBaidu\app\src\main\AndroidManifest.xml:157:13-76
 	android:name
-		ADDED from D:\APP\XiaoBaiWthBaidu\app\src\main\AndroidManifest.xml:156:13-86
+		ADDED from D:\work\GitHub\XiaoBaiWthBaidu\app\src\main\AndroidManifest.xml:156:13-86
 activity#com.baidu.voicerecognition.android.ui.BaiduASRDigitalDialog
-ADDED from D:\APP\XiaoBaiWthBaidu\app\src\main\AndroidManifest.xml:165:9-175:20
+ADDED from D:\work\GitHub\XiaoBaiWthBaidu\app\src\main\AndroidManifest.xml:165:9-175:20
 	android:screenOrientation
-		ADDED from D:\APP\XiaoBaiWthBaidu\app\src\main\AndroidManifest.xml:169:13-49
+		ADDED from D:\work\GitHub\XiaoBaiWthBaidu\app\src\main\AndroidManifest.xml:169:13-49
 	android:exported
-		ADDED from D:\APP\XiaoBaiWthBaidu\app\src\main\AndroidManifest.xml:168:13-37
+		ADDED from D:\work\GitHub\XiaoBaiWthBaidu\app\src\main\AndroidManifest.xml:168:13-37
 	android:configChanges
-		ADDED from D:\APP\XiaoBaiWthBaidu\app\src\main\AndroidManifest.xml:167:13-76
+		ADDED from D:\work\GitHub\XiaoBaiWthBaidu\app\src\main\AndroidManifest.xml:167:13-76
 	android:theme
-		ADDED from D:\APP\XiaoBaiWthBaidu\app\src\main\AndroidManifest.xml:170:13-56
+		ADDED from D:\work\GitHub\XiaoBaiWthBaidu\app\src\main\AndroidManifest.xml:170:13-56
 	android:name
-		ADDED from D:\APP\XiaoBaiWthBaidu\app\src\main\AndroidManifest.xml:166:13-87
+		ADDED from D:\work\GitHub\XiaoBaiWthBaidu\app\src\main\AndroidManifest.xml:166:13-87
 intent-filter#android.intent.category.DEFAULT+com.baidu.action.RECOGNIZE_SPEECH
-ADDED from D:\APP\XiaoBaiWthBaidu\app\src\main\AndroidManifest.xml:171:13-174:29
+ADDED from D:\work\GitHub\XiaoBaiWthBaidu\app\src\main\AndroidManifest.xml:171:13-174:29
 action#com.baidu.action.RECOGNIZE_SPEECH
-ADDED from D:\APP\XiaoBaiWthBaidu\app\src\main\AndroidManifest.xml:172:17-76
+ADDED from D:\work\GitHub\XiaoBaiWthBaidu\app\src\main\AndroidManifest.xml:172:17-76
 	android:name
-		ADDED from D:\APP\XiaoBaiWthBaidu\app\src\main\AndroidManifest.xml:172:25-73
+		ADDED from D:\work\GitHub\XiaoBaiWthBaidu\app\src\main\AndroidManifest.xml:172:25-73
 category#android.intent.category.DEFAULT
-ADDED from D:\APP\XiaoBaiWthBaidu\app\src\main\AndroidManifest.xml:173:17-76
+ADDED from D:\work\GitHub\XiaoBaiWthBaidu\app\src\main\AndroidManifest.xml:173:17-76
 	android:name
-		ADDED from D:\APP\XiaoBaiWthBaidu\app\src\main\AndroidManifest.xml:173:27-73
+		ADDED from D:\work\GitHub\XiaoBaiWthBaidu\app\src\main\AndroidManifest.xml:173:27-73
 activity#com.baidu.android.voicedemo.activity.setting.OnlineSetting
-ADDED from D:\APP\XiaoBaiWthBaidu\app\src\main\AndroidManifest.xml:176:9-181:81
+ADDED from D:\work\GitHub\XiaoBaiWthBaidu\app\src\main\AndroidManifest.xml:176:9-181:81
 	android:screenOrientation
-		ADDED from D:\APP\XiaoBaiWthBaidu\app\src\main\AndroidManifest.xml:180:13-49
+		ADDED from D:\work\GitHub\XiaoBaiWthBaidu\app\src\main\AndroidManifest.xml:180:13-49
 	android:label
-		ADDED from D:\APP\XiaoBaiWthBaidu\app\src\main\AndroidManifest.xml:179:13-35
+		ADDED from D:\work\GitHub\XiaoBaiWthBaidu\app\src\main\AndroidManifest.xml:179:13-35
 	android:configChanges
-		ADDED from D:\APP\XiaoBaiWthBaidu\app\src\main\AndroidManifest.xml:178:13-76
+		ADDED from D:\work\GitHub\XiaoBaiWthBaidu\app\src\main\AndroidManifest.xml:178:13-76
 	android:theme
-		ADDED from D:\APP\XiaoBaiWthBaidu\app\src\main\AndroidManifest.xml:181:13-69
+		ADDED from D:\work\GitHub\XiaoBaiWthBaidu\app\src\main\AndroidManifest.xml:181:13-69
 	android:name
-		ADDED from D:\APP\XiaoBaiWthBaidu\app\src\main\AndroidManifest.xml:177:13-86
+		ADDED from D:\work\GitHub\XiaoBaiWthBaidu\app\src\main\AndroidManifest.xml:177:13-86
 activity#com.baidu.android.voicedemo.activity.setting.OfflineSetting
-ADDED from D:\APP\XiaoBaiWthBaidu\app\src\main\AndroidManifest.xml:182:9-187:81
+ADDED from D:\work\GitHub\XiaoBaiWthBaidu\app\src\main\AndroidManifest.xml:182:9-187:81
 	android:screenOrientation
-		ADDED from D:\APP\XiaoBaiWthBaidu\app\src\main\AndroidManifest.xml:186:13-49
+		ADDED from D:\work\GitHub\XiaoBaiWthBaidu\app\src\main\AndroidManifest.xml:186:13-49
 	android:label
-		ADDED from D:\APP\XiaoBaiWthBaidu\app\src\main\AndroidManifest.xml:185:13-36
+		ADDED from D:\work\GitHub\XiaoBaiWthBaidu\app\src\main\AndroidManifest.xml:185:13-36
 	android:configChanges
-		ADDED from D:\APP\XiaoBaiWthBaidu\app\src\main\AndroidManifest.xml:184:13-76
+		ADDED from D:\work\GitHub\XiaoBaiWthBaidu\app\src\main\AndroidManifest.xml:184:13-76
 	android:theme
-		ADDED from D:\APP\XiaoBaiWthBaidu\app\src\main\AndroidManifest.xml:187:13-69
+		ADDED from D:\work\GitHub\XiaoBaiWthBaidu\app\src\main\AndroidManifest.xml:187:13-69
 	android:name
-		ADDED from D:\APP\XiaoBaiWthBaidu\app\src\main\AndroidManifest.xml:183:13-87
+		ADDED from D:\work\GitHub\XiaoBaiWthBaidu\app\src\main\AndroidManifest.xml:183:13-87
 activity#com.baidu.android.voicedemo.activity.setting.NluSetting
-ADDED from D:\APP\XiaoBaiWthBaidu\app\src\main\AndroidManifest.xml:188:9-193:81
+ADDED from D:\work\GitHub\XiaoBaiWthBaidu\app\src\main\AndroidManifest.xml:188:9-193:81
 	android:screenOrientation
-		ADDED from D:\APP\XiaoBaiWthBaidu\app\src\main\AndroidManifest.xml:192:13-49
+		ADDED from D:\work\GitHub\XiaoBaiWthBaidu\app\src\main\AndroidManifest.xml:192:13-49
 	android:label
-		ADDED from D:\APP\XiaoBaiWthBaidu\app\src\main\AndroidManifest.xml:191:13-33
+		ADDED from D:\work\GitHub\XiaoBaiWthBaidu\app\src\main\AndroidManifest.xml:191:13-33
 	android:configChanges
-		ADDED from D:\APP\XiaoBaiWthBaidu\app\src\main\AndroidManifest.xml:190:13-76
+		ADDED from D:\work\GitHub\XiaoBaiWthBaidu\app\src\main\AndroidManifest.xml:190:13-76
 	android:theme
-		ADDED from D:\APP\XiaoBaiWthBaidu\app\src\main\AndroidManifest.xml:193:13-69
+		ADDED from D:\work\GitHub\XiaoBaiWthBaidu\app\src\main\AndroidManifest.xml:193:13-69
 	android:name
-		ADDED from D:\APP\XiaoBaiWthBaidu\app\src\main\AndroidManifest.xml:189:13-83
+		ADDED from D:\work\GitHub\XiaoBaiWthBaidu\app\src\main\AndroidManifest.xml:189:13-83
 activity#com.baidu.android.voicedemo.activity.setting.AllSetting
-ADDED from D:\APP\XiaoBaiWthBaidu\app\src\main\AndroidManifest.xml:194:9-199:81
+ADDED from D:\work\GitHub\XiaoBaiWthBaidu\app\src\main\AndroidManifest.xml:194:9-199:81
 	android:screenOrientation
-		ADDED from D:\APP\XiaoBaiWthBaidu\app\src\main\AndroidManifest.xml:198:13-49
+		ADDED from D:\work\GitHub\XiaoBaiWthBaidu\app\src\main\AndroidManifest.xml:198:13-49
 	android:label
-		ADDED from D:\APP\XiaoBaiWthBaidu\app\src\main\AndroidManifest.xml:197:13-35
+		ADDED from D:\work\GitHub\XiaoBaiWthBaidu\app\src\main\AndroidManifest.xml:197:13-35
 	android:configChanges
-		ADDED from D:\APP\XiaoBaiWthBaidu\app\src\main\AndroidManifest.xml:196:13-76
+		ADDED from D:\work\GitHub\XiaoBaiWthBaidu\app\src\main\AndroidManifest.xml:196:13-76
 	android:theme
-		ADDED from D:\APP\XiaoBaiWthBaidu\app\src\main\AndroidManifest.xml:199:13-69
+		ADDED from D:\work\GitHub\XiaoBaiWthBaidu\app\src\main\AndroidManifest.xml:199:13-69
 	android:name
-		ADDED from D:\APP\XiaoBaiWthBaidu\app\src\main\AndroidManifest.xml:195:13-83
+		ADDED from D:\work\GitHub\XiaoBaiWthBaidu\app\src\main\AndroidManifest.xml:195:13-83
 activity#com.baidu.android.voicedemo.activity.MyActivity
-ADDED from D:\APP\XiaoBaiWthBaidu\app\src\main\AndroidManifest.xml:200:9-209:20
+ADDED from D:\work\GitHub\XiaoBaiWthBaidu\app\src\main\AndroidManifest.xml:200:9-209:20
 	android:label
-		ADDED from D:\APP\XiaoBaiWthBaidu\app\src\main\AndroidManifest.xml:202:13-33
+		ADDED from D:\work\GitHub\XiaoBaiWthBaidu\app\src\main\AndroidManifest.xml:202:13-33
 	android:name
-		ADDED from D:\APP\XiaoBaiWthBaidu\app\src\main\AndroidManifest.xml:201:13-75
+		ADDED from D:\work\GitHub\XiaoBaiWthBaidu\app\src\main\AndroidManifest.xml:201:13-75
 intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER+com.baidu.speech.recognizerdemo.intent.category.SAMPLE_CODE
-ADDED from D:\APP\XiaoBaiWthBaidu\app\src\main\AndroidManifest.xml:203:13-208:29
+ADDED from D:\work\GitHub\XiaoBaiWthBaidu\app\src\main\AndroidManifest.xml:203:13-208:29
 category#android.intent.category.LAUNCHER
-ADDED from D:\APP\XiaoBaiWthBaidu\app\src\main\AndroidManifest.xml:206:17-77
+ADDED from D:\work\GitHub\XiaoBaiWthBaidu\app\src\main\AndroidManifest.xml:206:17-77
 	android:name
-		ADDED from D:\APP\XiaoBaiWthBaidu\app\src\main\AndroidManifest.xml:206:27-74
+		ADDED from D:\work\GitHub\XiaoBaiWthBaidu\app\src\main\AndroidManifest.xml:206:27-74
 meta-data#android.support.VERSION
-ADDED from [com.android.support:appcompat-v7:25.3.1] C:\Users\Administrator\.android\build-cache\8afab530a9623dbadf91fc2b2c83c329087c60a7\output\AndroidManifest.xml:25:5-27:34
-MERGED from [com.android.support:support-v4:25.3.1] C:\Users\Administrator\.android\build-cache\b487a666d32b87d6ab6d8a907e8edf0c816175bf\output\AndroidManifest.xml:25:5-27:34
-MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\Administrator\.android\build-cache\d4fbb4ed2ea794ceb0d453416ebfbff42e645fa8\output\AndroidManifest.xml:25:5-27:34
-MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\Administrator\.android\build-cache\9fc7bd423b823960f2cc72042335884def4aec22\output\AndroidManifest.xml:25:5-27:34
-MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\Administrator\.android\build-cache\ab47603130756c929f27d84cf903561deaf7c179\output\AndroidManifest.xml:25:5-27:34
-MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\Administrator\.android\build-cache\585a91520a02428cf9fb8fa7519adf7f11af3d39\output\AndroidManifest.xml:25:5-27:34
-MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\Administrator\.android\build-cache\d5d548529c94eeb1f10fff1eae72f35c4d763d6f\output\AndroidManifest.xml:22:5-24:34
-MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\Administrator\.android\build-cache\bce55b1644c10b27b1c40e415e318dd4616879aa\output\AndroidManifest.xml:22:5-24:34
-MERGED from [com.android.support:support-compat:25.3.1] C:\Users\Administrator\.android\build-cache\702e0f11ee0efd9fcd28850379c4313dd6f9576d\output\AndroidManifest.xml:25:5-27:34
+ADDED from [com.android.support:appcompat-v7:25.3.1] C:\Users\Joey\.android\build-cache\db10831a932c5682c37ea2a902c8b18448cfd357\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\Joey\.android\build-cache\a92c079bdf025fd61b285fbe20273faba1521239\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\Joey\.android\build-cache\eac6c21ed92fefa563c7b4d575b2bd232e39ecc3\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\Joey\.android\build-cache\e0c7648a3152000f3ea78842f214a888955a1e04\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\Joey\.android\build-cache\4b718fb77a050da6ddf720e4de3855c285ba69b4\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\Joey\.android\build-cache\304d02d3f2cd16cb5ddf3d5a7d34cf810a857437\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\Joey\.android\build-cache\544bc365da8f5d91b7e663ffd7a32108ae7494c7\output\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\Joey\.android\build-cache\aa1b2061886ee5c378c71fbe88af0adbb88ad0e5\output\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\Joey\.android\build-cache\81ce38bb54cb1e52594a3c9c108717c383bb99c0\output\AndroidManifest.xml:25:5-27:34
 	android:value
-		ADDED from [com.android.support:appcompat-v7:25.3.1] C:\Users\Administrator\.android\build-cache\8afab530a9623dbadf91fc2b2c83c329087c60a7\output\AndroidManifest.xml:27:9-31
+		ADDED from [com.android.support:appcompat-v7:25.3.1] C:\Users\Joey\.android\build-cache\db10831a932c5682c37ea2a902c8b18448cfd357\output\AndroidManifest.xml:27:9-31
 	android:name
-		ADDED from [com.android.support:appcompat-v7:25.3.1] C:\Users\Administrator\.android\build-cache\8afab530a9623dbadf91fc2b2c83c329087c60a7\output\AndroidManifest.xml:26:9-47
+		ADDED from [com.android.support:appcompat-v7:25.3.1] C:\Users\Joey\.android\build-cache\db10831a932c5682c37ea2a902c8b18448cfd357\output\AndroidManifest.xml:26:9-47

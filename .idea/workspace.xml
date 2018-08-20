@@ -9,7 +9,7 @@
     <option name="TOOL_WINDOW_CONFIGURED_FILTER" value="Show only selected application" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ab16ac39-3ee2-4789-9f07-a8340efd0a9a" name="Default" comment="" />
+    <list default="true" id="da33b182-fe5a-44c0-947b-e0edefbf0638" name="Default" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -22,254 +22,80 @@
       <ProjectState />
     </projectState>
   </component>
-  <component name="ExternalProjectsManager">
-    <system id="GRADLE">
-      <state>
-        <projects_view />
-      </state>
-    </system>
-  </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+    <leaf>
       <file leaf-file-name="MyActivity.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/app/src/main/java/com/baidu/android/voicedemo/activity/MyActivity.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="84">
-              <caret line="229" column="0" lean-forward="true" selection-start-line="229" selection-start-column="0" selection-end-line="229" selection-end-column="0" />
+            <state relative-caret-position="31">
+              <caret line="90" column="26" lean-forward="false" selection-start-line="90" selection-start-column="26" selection-end-line="90" selection-end-column="26" />
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="e#4693#4940#0" expanded="true" />
-                <element signature="e#4939#4940#0" expanded="true" />
-                <element signature="e#5402#5591#0" expanded="true" />
-                <element signature="e#5590#5591#0" expanded="true" />
-                <element signature="e#15326#15327#0" expanded="true" />
-                <element signature="e#15361#15362#0" expanded="true" />
-                <element signature="e#15457#15458#0" expanded="true" />
-                <element signature="e#15494#15495#0" expanded="true" />
-                <element signature="e#15945#15953#0" expanded="true" />
-                <element signature="e#39036#39037#0" expanded="true" />
-                <element signature="e#39089#39090#0" expanded="true" />
-                <element signature="e#39637#39796#0" expanded="true" />
-                <element signature="e#39795#39796#0" expanded="true" />
-                <element signature="e#40021#40180#0" expanded="true" />
-                <element signature="e#40179#40180#0" expanded="true" />
-                <element signature="e#43214#43215#0" expanded="true" />
-                <element signature="e#43245#43246#0" expanded="true" />
+                <element signature="e#13835#13836#0" expanded="true" />
+                <element signature="e#13885#13886#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="AudioManager.class" pinned="false" current-in-tab="false">
-        <entry file="jar://E:/SDK/platforms/android-25/android.jar!/android/media/AudioManager.class">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="216">
-              <caret line="114" column="28" lean-forward="false" selection-start-line="114" selection-start-column="28" selection-end-line="114" selection-end-column="28" />
-              <folding>
-                <marker date="1505271740957" expanded="false" signature="0:104" ph="/.../" />
-                <marker date="1505271740957" expanded="false" signature="137:281" ph="..." />
-                <marker date="1505271740957" expanded="true" signature="601:619" ph="/**...*/" />
-                <marker date="1505271740957" expanded="true" signature="2408:2426" ph="/**...*/" />
-                <marker date="1505271740957" expanded="true" signature="2541:2559" ph="/**...*/" />
-                <marker date="1505271740957" expanded="true" signature="3913:3931" ph="/**...*/" />
-                <marker date="1505271740957" expanded="true" signature="4865:4883" ph="/**...*/" />
-                <marker date="1505271740957" expanded="true" signature="4948:4966" ph="/**...*/" />
-                <marker date="1505271740957" expanded="true" signature="5036:5054" ph="/**...*/" />
-                <marker date="1505271740957" expanded="true" signature="5130:5148" ph="/**...*/" />
-                <marker date="1505271740957" expanded="true" signature="5222:5240" ph="/**...*/" />
-                <marker date="1505271740957" expanded="true" signature="5309:5327" ph="/**...*/" />
-                <marker date="1505271740957" expanded="true" signature="5395:5413" ph="/**...*/" />
-                <marker date="1505271740957" expanded="true" signature="6118:6136" ph="/**...*/" />
-                <marker date="1505271740957" expanded="true" signature="6262:6280" ph="/**...*/" />
-                <marker date="1505271740957" expanded="true" signature="6354:6372" ph="/**...*/" />
-                <marker date="1505271740957" expanded="true" signature="6445:6463" ph="/**...*/" />
-                <marker date="1505271740957" expanded="true" signature="6545:6563" ph="/**...*/" />
-                <marker date="1505271740957" expanded="true" signature="6643:6661" ph="/**...*/" />
-                <marker date="1505271740957" expanded="false" signature="6750:6761" ph=" { " />
-                <marker date="1505271740957" expanded="false" signature="6797:6803" ph=" }" />
-                <marker date="1505271740957" expanded="false" signature="6861:6872" ph=" { " />
-                <marker date="1505271740957" expanded="false" signature="6908:6914" ph=" }" />
-                <marker date="1505271740957" expanded="false" signature="6950:6961" ph=" { " />
-                <marker date="1505271740957" expanded="false" signature="6997:7003" ph=" }" />
-                <marker date="1505271740957" expanded="true" signature="7082:7134" ph="{...}" />
-                <marker date="1505271740957" expanded="false" signature="7190:7201" ph=" { " />
-                <marker date="1505271740957" expanded="false" signature="7237:7243" ph=" }" />
-                <marker date="1505271740957" expanded="true" signature="7340:7392" ph="{...}" />
-                <marker date="1505271740957" expanded="false" signature="7424:7435" ph=" { " />
-                <marker date="1505271740957" expanded="false" signature="7471:7477" ph=" }" />
-                <marker date="1505271740957" expanded="false" signature="7528:7539" ph=" { " />
-                <marker date="1505271740957" expanded="false" signature="7575:7581" ph=" }" />
-                <marker date="1505271740957" expanded="false" signature="7629:7640" ph=" { " />
-                <marker date="1505271740957" expanded="false" signature="7676:7682" ph=" }" />
-                <marker date="1505271740957" expanded="false" signature="7729:7740" ph=" { " />
-                <marker date="1505271740957" expanded="false" signature="7776:7782" ph=" }" />
-                <marker date="1505271740957" expanded="true" signature="7854:7906" ph="{...}" />
-                <marker date="1505271740957" expanded="true" signature="7912:7930" ph="/**...*/" />
-                <marker date="1505271740957" expanded="true" signature="8008:8060" ph="{...}" />
-                <marker date="1505271740957" expanded="true" signature="8066:8084" ph="/**...*/" />
-                <marker date="1505271740957" expanded="true" signature="8162:8214" ph="{...}" />
-                <marker date="1505271740957" expanded="false" signature="8263:8274" ph=" { " />
-                <marker date="1505271740957" expanded="false" signature="8310:8316" ph=" }" />
-                <marker date="1505271740957" expanded="true" signature="8322:8340" ph="/**...*/" />
-                <marker date="1505271740957" expanded="false" signature="8406:8417" ph=" { " />
-                <marker date="1505271740957" expanded="false" signature="8453:8459" ph=" }" />
-                <marker date="1505271740957" expanded="true" signature="8465:8483" ph="/**...*/" />
-                <marker date="1505271740957" expanded="false" signature="8549:8560" ph=" { " />
-                <marker date="1505271740957" expanded="false" signature="8596:8602" ph=" }" />
-                <marker date="1505271740957" expanded="true" signature="8608:8626" ph="/**...*/" />
-                <marker date="1505271740957" expanded="true" signature="8714:8766" ph="{...}" />
-                <marker date="1505271740957" expanded="false" signature="8813:8824" ph=" { " />
-                <marker date="1505271740957" expanded="false" signature="8860:8866" ph=" }" />
-                <marker date="1505271740957" expanded="false" signature="8905:8916" ph=" { " />
-                <marker date="1505271740957" expanded="false" signature="8952:8958" ph=" }" />
-                <marker date="1505271740957" expanded="false" signature="9011:9022" ph=" { " />
-                <marker date="1505271740957" expanded="false" signature="9058:9064" ph=" }" />
-                <marker date="1505271740957" expanded="false" signature="9101:9112" ph=" { " />
-                <marker date="1505271740957" expanded="false" signature="9148:9154" ph=" }" />
-                <marker date="1505271740957" expanded="false" signature="9190:9201" ph=" { " />
-                <marker date="1505271740957" expanded="false" signature="9237:9243" ph=" }" />
-                <marker date="1505271740957" expanded="false" signature="9290:9301" ph=" { " />
-                <marker date="1505271740957" expanded="false" signature="9337:9343" ph=" }" />
-                <marker date="1505271740957" expanded="false" signature="9382:9393" ph=" { " />
-                <marker date="1505271740957" expanded="false" signature="9429:9435" ph=" }" />
-                <marker date="1505271740957" expanded="true" signature="9441:9459" ph="/**...*/" />
-                <marker date="1505271740957" expanded="false" signature="9522:9533" ph=" { " />
-                <marker date="1505271740957" expanded="false" signature="9569:9575" ph=" }" />
-                <marker date="1505271740957" expanded="false" signature="9615:9626" ph=" { " />
-                <marker date="1505271740957" expanded="false" signature="9662:9668" ph=" }" />
-                <marker date="1505271740957" expanded="true" signature="9674:9692" ph="/**...*/" />
-                <marker date="1505271740957" expanded="false" signature="9754:9765" ph=" { " />
-                <marker date="1505271740957" expanded="false" signature="9801:9807" ph=" }" />
-                <marker date="1505271740957" expanded="true" signature="9813:9831" ph="/**...*/" />
-                <marker date="1505271740957" expanded="false" signature="9885:9896" ph=" { " />
-                <marker date="1505271740957" expanded="false" signature="9932:9938" ph=" }" />
-                <marker date="1505271740957" expanded="false" signature="9985:9996" ph=" { " />
-                <marker date="1505271740957" expanded="false" signature="10032:10038" ph=" }" />
-                <marker date="1505271740957" expanded="false" signature="10077:10088" ph=" { " />
-                <marker date="1505271740957" expanded="false" signature="10124:10130" ph=" }" />
-                <marker date="1505271740957" expanded="false" signature="10165:10176" ph=" { " />
-                <marker date="1505271740957" expanded="false" signature="10212:10218" ph=" }" />
-                <marker date="1505271740957" expanded="false" signature="10244:10255" ph=" { " />
-                <marker date="1505271740957" expanded="false" signature="10291:10297" ph=" }" />
-                <marker date="1505271740957" expanded="true" signature="10303:10321" ph="/**...*/" />
-                <marker date="1505271740957" expanded="false" signature="10396:10407" ph=" { " />
-                <marker date="1505271740957" expanded="false" signature="10443:10449" ph=" }" />
-                <marker date="1505271740957" expanded="true" signature="10455:10473" ph="/**...*/" />
-                <marker date="1505271740957" expanded="false" signature="10525:10536" ph=" { " />
-                <marker date="1505271740957" expanded="false" signature="10572:10578" ph=" }" />
-                <marker date="1505271740957" expanded="false" signature="10614:10625" ph=" { " />
-                <marker date="1505271740957" expanded="false" signature="10661:10667" ph=" }" />
-                <marker date="1505271740957" expanded="false" signature="10708:10719" ph=" { " />
-                <marker date="1505271740957" expanded="false" signature="10755:10761" ph=" }" />
-                <marker date="1505271740957" expanded="false" signature="10814:10825" ph=" { " />
-                <marker date="1505271740957" expanded="false" signature="10861:10867" ph=" }" />
-                <marker date="1505271740957" expanded="false" signature="10913:10924" ph=" { " />
-                <marker date="1505271740957" expanded="false" signature="10960:10966" ph=" }" />
-                <marker date="1505271740957" expanded="false" signature="11015:11026" ph=" { " />
-                <marker date="1505271740957" expanded="false" signature="11062:11068" ph=" }" />
-                <marker date="1505271740957" expanded="true" signature="11132:11184" ph="{...}" />
-                <marker date="1505271740957" expanded="false" signature="11220:11231" ph=" { " />
-                <marker date="1505271740957" expanded="false" signature="11267:11273" ph=" }" />
-                <marker date="1505271740957" expanded="false" signature="11311:11322" ph=" { " />
-                <marker date="1505271740957" expanded="false" signature="11358:11364" ph=" }" />
-                <marker date="1505271740957" expanded="true" signature="11476:11528" ph="{...}" />
-                <marker date="1505271740957" expanded="true" signature="11606:11658" ph="{...}" />
-                <marker date="1505271740957" expanded="true" signature="11664:11682" ph="/**...*/" />
-                <marker date="1505271740957" expanded="true" signature="11777:11829" ph="{...}" />
-                <marker date="1505271740957" expanded="true" signature="11835:11853" ph="/**...*/" />
-                <marker date="1505271740957" expanded="true" signature="11948:12000" ph="{...}" />
-                <marker date="1505271740957" expanded="true" signature="12006:12024" ph="/**...*/" />
-                <marker date="1505271740957" expanded="true" signature="12121:12173" ph="{...}" />
-                <marker date="1505271740957" expanded="true" signature="12179:12197" ph="/**...*/" />
-                <marker date="1505271740957" expanded="true" signature="12294:12346" ph="{...}" />
-                <marker date="1505271740957" expanded="true" signature="12352:12370" ph="/**...*/" />
-                <marker date="1505271740957" expanded="true" signature="12461:12513" ph="{...}" />
-                <marker date="1505271740957" expanded="true" signature="12519:12537" ph="/**...*/" />
-                <marker date="1505271740957" expanded="true" signature="12630:12682" ph="{...}" />
-                <marker date="1505271740957" expanded="true" signature="12688:12706" ph="/**...*/" />
-                <marker date="1505271740957" expanded="true" signature="12791:12843" ph="{...}" />
-                <marker date="1505271740957" expanded="true" signature="12849:12867" ph="/**...*/" />
-                <marker date="1505271740957" expanded="true" signature="12951:13003" ph="{...}" />
-                <marker date="1505271740957" expanded="true" signature="13109:13161" ph="{...}" />
-                <marker date="1505271740957" expanded="true" signature="13252:13304" ph="{...}" />
-                <marker date="1505271740957" expanded="true" signature="13386:13438" ph="{...}" />
-                <marker date="1505271740957" expanded="false" signature="13481:13492" ph=" { " />
-                <marker date="1505271740957" expanded="false" signature="13528:13534" ph=" }" />
-                <marker date="1505271740957" expanded="false" signature="13586:13597" ph=" { " />
-                <marker date="1505271740957" expanded="false" signature="13633:13639" ph=" }" />
-                <marker date="1505271740957" expanded="true" signature="13732:13784" ph="{...}" />
-                <marker date="1505271740957" expanded="true" signature="13862:13914" ph="{...}" />
-                <marker date="1505271740957" expanded="true" signature="13972:14230" ph="{...}" />
-                <marker date="1505271740957" expanded="false" signature="14013:14028" ph=" { " />
-                <marker date="1505271740957" expanded="false" signature="14064:14074" ph=" }" />
-                <marker date="1505271740957" expanded="true" signature="14164:14224" ph="{...}" />
-                <marker date="1505271740957" expanded="true" signature="14280:14330" ph="{...}" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="RecogWakeupListener.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/src/main/java/com/baidu/android/voicedemo/wakeup/RecogWakeupListener.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="441">
-              <caret line="23" column="71" lean-forward="false" selection-start-line="23" selection-start-column="50" selection-end-line="23" selection-end-column="71" />
-              <folding>
-                <element signature="e#401#402#0" expanded="true" />
-                <element signature="e#439#440#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="activity_my.xml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/activity_my.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1932">
-              <caret line="92" column="28" lean-forward="false" selection-start-line="92" selection-start-column="28" selection-end-line="92" selection-end-column="28" />
-              <folding />
-            </state>
-          </provider>
+      <file leaf-file-name="bdspeech_digital_layout.xml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/bdspeech_digital_layout.xml">
           <provider editor-type-id="android-designer2">
             <state />
           </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="AndroidManifest.xml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/src/main/AndroidManifest.xml">
-          <provider editor-type-id="android-manifest">
-            <state />
-          </provider>
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="292">
-              <caret line="105" column="69" lean-forward="false" selection-start-line="105" selection-start-column="69" selection-end-line="105" selection-end-column="69" />
+            <state relative-caret-position="189">
+              <caret line="20" column="47" lean-forward="false" selection-start-line="20" selection-start-column="47" selection-end-line="20" selection-end-column="47" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="ActivityWakeUp.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/src/main/java/com/baidu/android/voicedemo/activity/ActivityWakeUp.java">
+      <file leaf-file-name="MyWakeup.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/src/main/java/com/baidu/android/voicedemo/control/MyWakeup.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="294">
-              <caret line="39" column="63" lean-forward="false" selection-start-line="39" selection-start-column="63" selection-end-line="39" selection-end-column="63" />
+            <state relative-caret-position="199">
+              <caret line="20" column="13" lean-forward="false" selection-start-line="20" selection-start-column="13" selection-end-line="20" selection-end-column="13" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="logo_xiaobai.png" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/src/main/res/drawable/logo_xiaobai.png">
-          <provider selected="true" editor-type-id="images">
-            <state />
+      <file leaf-file-name="ChainRecogListener.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/src/main/java/com/baidu/android/voicedemo/recognization/ChainRecogListener.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-200">
+              <caret line="10" column="0" lean-forward="false" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
+              <folding />
+            </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="strings.xml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/src/main/res/values/strings.xml">
+      <file leaf-file-name="ErrorTranslation.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/src/main/java/com/baidu/android/voicedemo/control/ErrorTranslation.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="210">
-              <caret line="10" column="46" lean-forward="false" selection-start-line="10" selection-start-column="46" selection-end-line="10" selection-end-column="46" />
+            <state relative-caret-position="200">
+              <caret line="8" column="13" lean-forward="false" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="OnlineRecogParams.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/src/main/java/com/baidu/android/voicedemo/recognization/online/OnlineRecogParams.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="124">
+              <caret line="15" column="50" lean-forward="false" selection-start-line="15" selection-start-column="50" selection-end-line="15" selection-end-column="50" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="CommonRecogParams.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/src/main/java/com/baidu/android/voicedemo/recognization/CommonRecogParams.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="124">
+              <caret line="17" column="35" lean-forward="false" selection-start-line="17" selection-start-column="35" selection-end-line="17" selection-end-column="35" />
               <folding />
             </state>
           </provider>
@@ -279,17 +105,17 @@
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>btn_runScene</find>
-      <find>start</find>
-      <find>SimpleWakeupListener</find>
-      <find>MediaPlayer</find>
-      <find>oncrea</find>
+      <find>mediaPlayerBeep</find>
+      <find>dialog_linear</find>
     </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="GradleLocalSettings">
     <option name="myGradleHomes">
       <map>
-        <entry key="$PROJECT_DIR$" value="C:\Users\Administrator\.gradle\wrapper\dists\gradle-4.1-all\bzyivzo6n839fup2jbap0tjew\gradle-4.1" />
+        <entry key="$PROJECT_DIR$" value="C:\Users\Joey\.gradle\wrapper\dists\gradle-4.1-all\bzyivzo6n839fup2jbap0tjew\gradle-4.1" />
       </map>
     </option>
     <option name="myGradleVersions">
@@ -420,6 +246,10 @@
               <ExternalTaskPojo>
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
                 <option name="name" value="processDebugResources" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="transformNativeLibsWithStripDebugSymbolForRelease" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
                 <option name="description" value="Runs lint on all variants." />
@@ -798,6 +628,10 @@
               </ExternalTaskPojo>
               <ExternalTaskPojo>
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="transformNativeLibsWithStripDebugSymbolForDebug" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
                 <option name="name" value="compileDebugNdk" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
@@ -1114,6 +948,10 @@
               <ExternalTaskPojo>
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/app" />
                 <option name="name" value="processDebugResources" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/app" />
+                <option name="name" value="transformNativeLibsWithStripDebugSymbolForRelease" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
                 <option name="description" value="Runs lint on all variants." />
@@ -1484,6 +1322,10 @@
                 <option name="description" value="Run unit tests for all variants." />
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/app" />
                 <option name="name" value="test" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/app" />
+                <option name="name" value="transformNativeLibsWithStripDebugSymbolForDebug" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/app" />
@@ -2140,17 +1982,17 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/app/src/main/res/values/strings.xml" />
         <option value="$PROJECT_DIR$/app/src/main/java/com/baidu/android/voicedemo/activity/MyActivity.java" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
-    <option name="x" value="-8" />
-    <option name="y" value="-8" />
-    <option name="width" value="1936" />
-    <option name="height" value="1056" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="1924" />
+    <option name="y" value="1" />
+    <option name="width" value="1934" />
+    <option name="height" value="1047" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator currentView="ProjectPane" proportions="" version="1">
       <flattenPackages />
@@ -2166,10 +2008,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
-      <pane id="PackagesPane" />
       <pane id="Scratches" />
-      <pane id="AndroidView" />
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -2186,6 +2026,12 @@
               <item name="XiaoBaiWthBaidu" type="b2602c69:ProjectViewProjectNode" />
               <item name="XiaoBaiWthBaidu" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
               <item name="app" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="libs" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="XiaoBaiWthBaidu" type="b2602c69:ProjectViewProjectNode" />
+              <item name="XiaoBaiWthBaidu" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="app" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -2194,14 +2040,6 @@
               <item name="app" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="XiaoBaiWthBaidu" type="b2602c69:ProjectViewProjectNode" />
-              <item name="XiaoBaiWthBaidu" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="app" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="assets" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="XiaoBaiWthBaidu" type="b2602c69:ProjectViewProjectNode" />
@@ -2239,7 +2077,7 @@
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="baidu" type="462c0819:PsiDirectoryNode" />
               <item name="voicedemo" type="462c0819:PsiDirectoryNode" />
-              <item name="activity" type="462c0819:PsiDirectoryNode" />
+              <item name="pinyin" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="XiaoBaiWthBaidu" type="b2602c69:ProjectViewProjectNode" />
@@ -2247,11 +2085,7 @@
               <item name="app" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="baidu" type="462c0819:PsiDirectoryNode" />
-              <item name="voicedemo" type="462c0819:PsiDirectoryNode" />
-              <item name="activity" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="jniLibs" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="XiaoBaiWthBaidu" type="b2602c69:ProjectViewProjectNode" />
@@ -2259,20 +2093,8 @@
               <item name="app" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="baidu" type="462c0819:PsiDirectoryNode" />
-              <item name="voicedemo" type="462c0819:PsiDirectoryNode" />
-              <item name="wakeup" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="XiaoBaiWthBaidu" type="b2602c69:ProjectViewProjectNode" />
-              <item name="XiaoBaiWthBaidu" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="app" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="baidu" type="462c0819:PsiDirectoryNode" />
-              <item name="ui" type="462c0819:PsiDirectoryNode" />
+              <item name="jniLibs" type="462c0819:PsiDirectoryNode" />
+              <item name="armeabi-v7a" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="XiaoBaiWthBaidu" type="b2602c69:ProjectViewProjectNode" />
@@ -2289,34 +2111,21 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="res" type="462c0819:PsiDirectoryNode" />
-              <item name="raw" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="XiaoBaiWthBaidu" type="b2602c69:ProjectViewProjectNode" />
-              <item name="XiaoBaiWthBaidu" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="app" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="res" type="462c0819:PsiDirectoryNode" />
-              <item name="values" type="462c0819:PsiDirectoryNode" />
+              <item name="layout" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
+      <pane id="AndroidView" />
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="android.sdk.path" value="E:/SDK" />
+    <property name="android.sdk.path" value="C:/Android/Sdk" />
     <property name="settings.editor.selected.configurable" value="android.sdk-updates" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Voice/demo/baidudemo_v3.0.8.1_20180801_d6f298a" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="device.picker.selection" value="K6TDU17519001265" />
-  </component>
-  <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="D:\APP\XiaoBaiWthBaidu\app\src\main\assets" />
-      <recent name="D:\APP\XiaoBaiWthBaidu\app\src\main\res\raw" />
-    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -2489,48 +2298,47 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="ab16ac39-3ee2-4789-9f07-a8340efd0a9a" name="Default" comment="" />
-      <created>1530174362285</created>
+      <changelist id="da33b182-fe5a-44c0-947b-e0edefbf0638" name="Default" comment="" />
+      <created>1534775554285</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1530174362285</updated>
+      <updated>1534775554285</updated>
     </task>
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1056" extended-state="7" />
-    <editor active="true" />
+    <frame x="1924" y="1" width="1934" height="1047" extended-state="0" />
     <layout>
-      <window_info id="Android Profiler" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Build Variants" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
-      <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Android Profiler" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Build Variants" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Logcat" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24777777" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Logcat" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.30674157" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Captures" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24946696" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Build" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.19444445" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.29348987" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Build" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Gradle" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Gradle" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Device File Explorer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="true" content_ui="tabs" />
-      <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Device File Explorer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
   <component name="VcsContentAnnotationSettings">
@@ -2541,493 +2349,76 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/baidu/android/voicedemo/activity/MyActivity.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#4693#4940#0" expanded="true" />
-            <element signature="e#4939#4940#0" expanded="true" />
-            <element signature="e#5402#5591#0" expanded="true" />
-            <element signature="e#5590#5591#0" expanded="true" />
-            <element signature="e#15326#15327#0" expanded="true" />
-            <element signature="e#15361#15362#0" expanded="true" />
-            <element signature="e#15457#15458#0" expanded="true" />
-            <element signature="e#15494#15495#0" expanded="true" />
-            <element signature="e#15945#15953#0" expanded="true" />
-            <element signature="e#39036#39037#0" expanded="true" />
-            <element signature="e#39089#39090#0" expanded="true" />
-            <element signature="e#39637#39796#0" expanded="true" />
-            <element signature="e#39795#39796#0" expanded="true" />
-            <element signature="e#40021#40180#0" expanded="true" />
-            <element signature="e#40179#40180#0" expanded="true" />
-            <element signature="e#43214#43215#0" expanded="true" />
-            <element signature="e#43245#43246#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/activity_my.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1932">
-          <caret line="92" column="28" lean-forward="false" selection-start-line="92" selection-start-column="28" selection-end-line="92" selection-end-column="28" />
-          <folding />
-        </state>
-      </provider>
-      <provider editor-type-id="android-designer2">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/AndroidManifest.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="4200">
-          <caret line="200" column="65" lean-forward="false" selection-start-line="200" selection-start-column="65" selection-end-line="200" selection-end-column="65" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/res/drawable/logo_xiaobai.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/app/src/main/java/com/baidu/android/voicedemo/activity/ActivityMain.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1848">
-          <caret line="105" column="48" lean-forward="false" selection-start-line="105" selection-start-column="48" selection-end-line="105" selection-end-column="48" />
+        <state relative-caret-position="290">
+          <caret line="35" column="13" lean-forward="false" selection-start-line="35" selection-start-column="13" selection-end-line="35" selection-end-column="13" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/res/values/strings.xml">
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/baidu/android/voicedemo/recognization/ChainRecogListener.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="63">
-          <caret line="3" column="41" lean-forward="false" selection-start-line="3" selection-start-column="41" selection-end-line="3" selection-end-column="41" />
+        <state relative-caret-position="-200">
+          <caret line="10" column="0" lean-forward="false" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/baidu/android/voicedemo/activity/MyActivity.java">
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/baidu/android/voicedemo/control/ErrorTranslation.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#4693#4940#0" expanded="true" />
-            <element signature="e#4939#4940#0" expanded="true" />
-            <element signature="e#5402#5591#0" expanded="true" />
-            <element signature="e#5590#5591#0" expanded="true" />
-            <element signature="e#15326#15327#0" expanded="true" />
-            <element signature="e#15361#15362#0" expanded="true" />
-            <element signature="e#15457#15458#0" expanded="true" />
-            <element signature="e#15494#15495#0" expanded="true" />
-            <element signature="e#15945#15953#0" expanded="true" />
-            <element signature="e#39036#39037#0" expanded="true" />
-            <element signature="e#39089#39090#0" expanded="true" />
-            <element signature="e#39637#39796#0" expanded="true" />
-            <element signature="e#39795#39796#0" expanded="true" />
-            <element signature="e#40021#40180#0" expanded="true" />
-            <element signature="e#40179#40180#0" expanded="true" />
-            <element signature="e#43214#43215#0" expanded="true" />
-            <element signature="e#43245#43246#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/activity_my.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1932">
-          <caret line="92" column="28" lean-forward="false" selection-start-line="92" selection-start-column="28" selection-end-line="92" selection-end-column="28" />
-          <folding />
-        </state>
-      </provider>
-      <provider editor-type-id="android-designer2">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/AndroidManifest.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="378">
-          <caret line="18" column="76" lean-forward="false" selection-start-line="18" selection-start-column="54" selection-end-line="18" selection-end-column="76" />
+        <state relative-caret-position="200">
+          <caret line="8" column="13" lean-forward="false" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/baidu/android/voicedemo/activity/MyActivity.java">
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/baidu/android/voicedemo/recognization/online/OnlineRecogParams.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#4693#4940#0" expanded="true" />
-            <element signature="e#4939#4940#0" expanded="true" />
-            <element signature="e#5402#5591#0" expanded="true" />
-            <element signature="e#5590#5591#0" expanded="true" />
-            <element signature="e#15326#15327#0" expanded="true" />
-            <element signature="e#15361#15362#0" expanded="true" />
-            <element signature="e#15457#15458#0" expanded="true" />
-            <element signature="e#15494#15495#0" expanded="true" />
-            <element signature="e#15945#15953#0" expanded="true" />
-            <element signature="e#39036#39037#0" expanded="true" />
-            <element signature="e#39089#39090#0" expanded="true" />
-            <element signature="e#39637#39796#0" expanded="true" />
-            <element signature="e#39795#39796#0" expanded="true" />
-            <element signature="e#40021#40180#0" expanded="true" />
-            <element signature="e#40179#40180#0" expanded="true" />
-            <element signature="e#43214#43215#0" expanded="true" />
-            <element signature="e#43245#43246#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/activity_my.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1932">
-          <caret line="92" column="28" lean-forward="false" selection-start-line="92" selection-start-column="28" selection-end-line="92" selection-end-column="28" />
-          <folding />
-        </state>
-      </provider>
-      <provider editor-type-id="android-designer2">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/AndroidManifest.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="378">
-          <caret line="18" column="76" lean-forward="false" selection-start-line="18" selection-start-column="54" selection-end-line="18" selection-end-column="76" />
+        <state relative-caret-position="124">
+          <caret line="15" column="50" lean-forward="false" selection-start-line="15" selection-start-column="50" selection-end-line="15" selection-end-column="50" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/baidu/android/voicedemo/activity/MyActivity.java">
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/baidu/android/voicedemo/recognization/CommonRecogParams.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#4693#4940#0" expanded="true" />
-            <element signature="e#4939#4940#0" expanded="true" />
-            <element signature="e#5402#5591#0" expanded="true" />
-            <element signature="e#5590#5591#0" expanded="true" />
-            <element signature="e#15326#15327#0" expanded="true" />
-            <element signature="e#15361#15362#0" expanded="true" />
-            <element signature="e#15457#15458#0" expanded="true" />
-            <element signature="e#15494#15495#0" expanded="true" />
-            <element signature="e#15945#15953#0" expanded="true" />
-            <element signature="e#39036#39037#0" expanded="true" />
-            <element signature="e#39089#39090#0" expanded="true" />
-            <element signature="e#39637#39796#0" expanded="true" />
-            <element signature="e#39795#39796#0" expanded="true" />
-            <element signature="e#40021#40180#0" expanded="true" />
-            <element signature="e#40179#40180#0" expanded="true" />
-            <element signature="e#43214#43215#0" expanded="true" />
-            <element signature="e#43245#43246#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/activity_my.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1932">
-          <caret line="92" column="28" lean-forward="false" selection-start-line="92" selection-start-column="28" selection-end-line="92" selection-end-column="28" />
+        <state relative-caret-position="124">
+          <caret line="17" column="35" lean-forward="false" selection-start-line="17" selection-start-column="35" selection-end-line="17" selection-end-column="35" />
           <folding />
         </state>
-      </provider>
-      <provider editor-type-id="android-designer2">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/AndroidManifest.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="378">
-          <caret line="18" column="76" lean-forward="false" selection-start-line="18" selection-start-column="54" selection-end-line="18" selection-end-column="76" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://E:/SDK/platforms/android-25/android.jar!/android/app/ListActivity.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-293">
-          <caret line="12" column="13" lean-forward="false" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/activity_my.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1932">
-          <caret line="92" column="28" lean-forward="false" selection-start-line="92" selection-start-column="28" selection-end-line="92" selection-end-column="28" />
-          <folding />
-        </state>
-      </provider>
-      <provider editor-type-id="android-designer2">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/AndroidManifest.xml">
-      <provider editor-type-id="android-manifest">
-        <state />
-      </provider>
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="292">
-          <caret line="105" column="69" lean-forward="false" selection-start-line="105" selection-start-column="69" selection-end-line="105" selection-end-column="69" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/baidu/android/voicedemo/activity/ActivityMain.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="805">
-          <caret line="105" column="48" lean-forward="false" selection-start-line="105" selection-start-column="48" selection-end-line="105" selection-end-column="48" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/res/drawable/logo_xiaobai.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/src/main/java/com/baidu/android/voicedemo/control/MyWakeup.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="542">
-          <caret line="41" column="11" lean-forward="false" selection-start-line="41" selection-start-column="11" selection-end-line="41" selection-end-column="11" />
+        <state relative-caret-position="199">
+          <caret line="20" column="13" lean-forward="false" selection-start-line="20" selection-start-column="13" selection-end-line="20" selection-end-column="13" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/baidu/android/voicedemo/activity/ActivityCommon.java">
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/bdspeech_digital_layout.xml">
+      <provider editor-type-id="android-designer2">
+        <state />
+      </provider>
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="290">
-          <caret line="32" column="22" lean-forward="false" selection-start-line="32" selection-start-column="22" selection-end-line="32" selection-end-column="22" />
+        <state relative-caret-position="189">
+          <caret line="20" column="47" lean-forward="false" selection-start-line="20" selection-start-column="47" selection-end-line="20" selection-end-column="47" />
           <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/baidu/android/voicedemo/activity/ActivityWakeUp.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="294">
-          <caret line="39" column="63" lean-forward="false" selection-start-line="39" selection-start-column="63" selection-end-line="39" selection-end-column="63" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/baidu/android/voicedemo/recognization/IStatus.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="126">
-          <caret line="6" column="17" lean-forward="false" selection-start-line="6" selection-start-column="17" selection-end-line="6" selection-end-column="17" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/baidu/android/voicedemo/wakeup/RecogWakeupListener.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="441">
-          <caret line="23" column="71" lean-forward="false" selection-start-line="23" selection-start-column="50" selection-end-line="23" selection-end-column="71" />
-          <folding>
-            <element signature="e#401#402#0" expanded="true" />
-            <element signature="e#439#440#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/res/values/strings.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="10" column="46" lean-forward="false" selection-start-line="10" selection-start-column="46" selection-end-line="10" selection-end-column="46" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://E:/SDK/platforms/android-25/android.jar!/android/media/AudioManager.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="216">
-          <caret line="114" column="28" lean-forward="false" selection-start-line="114" selection-start-column="28" selection-end-line="114" selection-end-column="28" />
-          <folding>
-            <marker date="1505271740957" expanded="false" signature="0:104" ph="/.../" />
-            <marker date="1505271740957" expanded="false" signature="137:281" ph="..." />
-            <marker date="1505271740957" expanded="true" signature="601:619" ph="/**...*/" />
-            <marker date="1505271740957" expanded="true" signature="2408:2426" ph="/**...*/" />
-            <marker date="1505271740957" expanded="true" signature="2541:2559" ph="/**...*/" />
-            <marker date="1505271740957" expanded="true" signature="3913:3931" ph="/**...*/" />
-            <marker date="1505271740957" expanded="true" signature="4865:4883" ph="/**...*/" />
-            <marker date="1505271740957" expanded="true" signature="4948:4966" ph="/**...*/" />
-            <marker date="1505271740957" expanded="true" signature="5036:5054" ph="/**...*/" />
-            <marker date="1505271740957" expanded="true" signature="5130:5148" ph="/**...*/" />
-            <marker date="1505271740957" expanded="true" signature="5222:5240" ph="/**...*/" />
-            <marker date="1505271740957" expanded="true" signature="5309:5327" ph="/**...*/" />
-            <marker date="1505271740957" expanded="true" signature="5395:5413" ph="/**...*/" />
-            <marker date="1505271740957" expanded="true" signature="6118:6136" ph="/**...*/" />
-            <marker date="1505271740957" expanded="true" signature="6262:6280" ph="/**...*/" />
-            <marker date="1505271740957" expanded="true" signature="6354:6372" ph="/**...*/" />
-            <marker date="1505271740957" expanded="true" signature="6445:6463" ph="/**...*/" />
-            <marker date="1505271740957" expanded="true" signature="6545:6563" ph="/**...*/" />
-            <marker date="1505271740957" expanded="true" signature="6643:6661" ph="/**...*/" />
-            <marker date="1505271740957" expanded="false" signature="6750:6761" ph=" { " />
-            <marker date="1505271740957" expanded="false" signature="6797:6803" ph=" }" />
-            <marker date="1505271740957" expanded="false" signature="6861:6872" ph=" { " />
-            <marker date="1505271740957" expanded="false" signature="6908:6914" ph=" }" />
-            <marker date="1505271740957" expanded="false" signature="6950:6961" ph=" { " />
-            <marker date="1505271740957" expanded="false" signature="6997:7003" ph=" }" />
-            <marker date="1505271740957" expanded="true" signature="7082:7134" ph="{...}" />
-            <marker date="1505271740957" expanded="false" signature="7190:7201" ph=" { " />
-            <marker date="1505271740957" expanded="false" signature="7237:7243" ph=" }" />
-            <marker date="1505271740957" expanded="true" signature="7340:7392" ph="{...}" />
-            <marker date="1505271740957" expanded="false" signature="7424:7435" ph=" { " />
-            <marker date="1505271740957" expanded="false" signature="7471:7477" ph=" }" />
-            <marker date="1505271740957" expanded="false" signature="7528:7539" ph=" { " />
-            <marker date="1505271740957" expanded="false" signature="7575:7581" ph=" }" />
-            <marker date="1505271740957" expanded="false" signature="7629:7640" ph=" { " />
-            <marker date="1505271740957" expanded="false" signature="7676:7682" ph=" }" />
-            <marker date="1505271740957" expanded="false" signature="7729:7740" ph=" { " />
-            <marker date="1505271740957" expanded="false" signature="7776:7782" ph=" }" />
-            <marker date="1505271740957" expanded="true" signature="7854:7906" ph="{...}" />
-            <marker date="1505271740957" expanded="true" signature="7912:7930" ph="/**...*/" />
-            <marker date="1505271740957" expanded="true" signature="8008:8060" ph="{...}" />
-            <marker date="1505271740957" expanded="true" signature="8066:8084" ph="/**...*/" />
-            <marker date="1505271740957" expanded="true" signature="8162:8214" ph="{...}" />
-            <marker date="1505271740957" expanded="false" signature="8263:8274" ph=" { " />
-            <marker date="1505271740957" expanded="false" signature="8310:8316" ph=" }" />
-            <marker date="1505271740957" expanded="true" signature="8322:8340" ph="/**...*/" />
-            <marker date="1505271740957" expanded="false" signature="8406:8417" ph=" { " />
-            <marker date="1505271740957" expanded="false" signature="8453:8459" ph=" }" />
-            <marker date="1505271740957" expanded="true" signature="8465:8483" ph="/**...*/" />
-            <marker date="1505271740957" expanded="false" signature="8549:8560" ph=" { " />
-            <marker date="1505271740957" expanded="false" signature="8596:8602" ph=" }" />
-            <marker date="1505271740957" expanded="true" signature="8608:8626" ph="/**...*/" />
-            <marker date="1505271740957" expanded="true" signature="8714:8766" ph="{...}" />
-            <marker date="1505271740957" expanded="false" signature="8813:8824" ph=" { " />
-            <marker date="1505271740957" expanded="false" signature="8860:8866" ph=" }" />
-            <marker date="1505271740957" expanded="false" signature="8905:8916" ph=" { " />
-            <marker date="1505271740957" expanded="false" signature="8952:8958" ph=" }" />
-            <marker date="1505271740957" expanded="false" signature="9011:9022" ph=" { " />
-            <marker date="1505271740957" expanded="false" signature="9058:9064" ph=" }" />
-            <marker date="1505271740957" expanded="false" signature="9101:9112" ph=" { " />
-            <marker date="1505271740957" expanded="false" signature="9148:9154" ph=" }" />
-            <marker date="1505271740957" expanded="false" signature="9190:9201" ph=" { " />
-            <marker date="1505271740957" expanded="false" signature="9237:9243" ph=" }" />
-            <marker date="1505271740957" expanded="false" signature="9290:9301" ph=" { " />
-            <marker date="1505271740957" expanded="false" signature="9337:9343" ph=" }" />
-            <marker date="1505271740957" expanded="false" signature="9382:9393" ph=" { " />
-            <marker date="1505271740957" expanded="false" signature="9429:9435" ph=" }" />
-            <marker date="1505271740957" expanded="true" signature="9441:9459" ph="/**...*/" />
-            <marker date="1505271740957" expanded="false" signature="9522:9533" ph=" { " />
-            <marker date="1505271740957" expanded="false" signature="9569:9575" ph=" }" />
-            <marker date="1505271740957" expanded="false" signature="9615:9626" ph=" { " />
-            <marker date="1505271740957" expanded="false" signature="9662:9668" ph=" }" />
-            <marker date="1505271740957" expanded="true" signature="9674:9692" ph="/**...*/" />
-            <marker date="1505271740957" expanded="false" signature="9754:9765" ph=" { " />
-            <marker date="1505271740957" expanded="false" signature="9801:9807" ph=" }" />
-            <marker date="1505271740957" expanded="true" signature="9813:9831" ph="/**...*/" />
-            <marker date="1505271740957" expanded="false" signature="9885:9896" ph=" { " />
-            <marker date="1505271740957" expanded="false" signature="9932:9938" ph=" }" />
-            <marker date="1505271740957" expanded="false" signature="9985:9996" ph=" { " />
-            <marker date="1505271740957" expanded="false" signature="10032:10038" ph=" }" />
-            <marker date="1505271740957" expanded="false" signature="10077:10088" ph=" { " />
-            <marker date="1505271740957" expanded="false" signature="10124:10130" ph=" }" />
-            <marker date="1505271740957" expanded="false" signature="10165:10176" ph=" { " />
-            <marker date="1505271740957" expanded="false" signature="10212:10218" ph=" }" />
-            <marker date="1505271740957" expanded="false" signature="10244:10255" ph=" { " />
-            <marker date="1505271740957" expanded="false" signature="10291:10297" ph=" }" />
-            <marker date="1505271740957" expanded="true" signature="10303:10321" ph="/**...*/" />
-            <marker date="1505271740957" expanded="false" signature="10396:10407" ph=" { " />
-            <marker date="1505271740957" expanded="false" signature="10443:10449" ph=" }" />
-            <marker date="1505271740957" expanded="true" signature="10455:10473" ph="/**...*/" />
-            <marker date="1505271740957" expanded="false" signature="10525:10536" ph=" { " />
-            <marker date="1505271740957" expanded="false" signature="10572:10578" ph=" }" />
-            <marker date="1505271740957" expanded="false" signature="10614:10625" ph=" { " />
-            <marker date="1505271740957" expanded="false" signature="10661:10667" ph=" }" />
-            <marker date="1505271740957" expanded="false" signature="10708:10719" ph=" { " />
-            <marker date="1505271740957" expanded="false" signature="10755:10761" ph=" }" />
-            <marker date="1505271740957" expanded="false" signature="10814:10825" ph=" { " />
-            <marker date="1505271740957" expanded="false" signature="10861:10867" ph=" }" />
-            <marker date="1505271740957" expanded="false" signature="10913:10924" ph=" { " />
-            <marker date="1505271740957" expanded="false" signature="10960:10966" ph=" }" />
-            <marker date="1505271740957" expanded="false" signature="11015:11026" ph=" { " />
-            <marker date="1505271740957" expanded="false" signature="11062:11068" ph=" }" />
-            <marker date="1505271740957" expanded="true" signature="11132:11184" ph="{...}" />
-            <marker date="1505271740957" expanded="false" signature="11220:11231" ph=" { " />
-            <marker date="1505271740957" expanded="false" signature="11267:11273" ph=" }" />
-            <marker date="1505271740957" expanded="false" signature="11311:11322" ph=" { " />
-            <marker date="1505271740957" expanded="false" signature="11358:11364" ph=" }" />
-            <marker date="1505271740957" expanded="true" signature="11476:11528" ph="{...}" />
-            <marker date="1505271740957" expanded="true" signature="11606:11658" ph="{...}" />
-            <marker date="1505271740957" expanded="true" signature="11664:11682" ph="/**...*/" />
-            <marker date="1505271740957" expanded="true" signature="11777:11829" ph="{...}" />
-            <marker date="1505271740957" expanded="true" signature="11835:11853" ph="/**...*/" />
-            <marker date="1505271740957" expanded="true" signature="11948:12000" ph="{...}" />
-            <marker date="1505271740957" expanded="true" signature="12006:12024" ph="/**...*/" />
-            <marker date="1505271740957" expanded="true" signature="12121:12173" ph="{...}" />
-            <marker date="1505271740957" expanded="true" signature="12179:12197" ph="/**...*/" />
-            <marker date="1505271740957" expanded="true" signature="12294:12346" ph="{...}" />
-            <marker date="1505271740957" expanded="true" signature="12352:12370" ph="/**...*/" />
-            <marker date="1505271740957" expanded="true" signature="12461:12513" ph="{...}" />
-            <marker date="1505271740957" expanded="true" signature="12519:12537" ph="/**...*/" />
-            <marker date="1505271740957" expanded="true" signature="12630:12682" ph="{...}" />
-            <marker date="1505271740957" expanded="true" signature="12688:12706" ph="/**...*/" />
-            <marker date="1505271740957" expanded="true" signature="12791:12843" ph="{...}" />
-            <marker date="1505271740957" expanded="true" signature="12849:12867" ph="/**...*/" />
-            <marker date="1505271740957" expanded="true" signature="12951:13003" ph="{...}" />
-            <marker date="1505271740957" expanded="true" signature="13109:13161" ph="{...}" />
-            <marker date="1505271740957" expanded="true" signature="13252:13304" ph="{...}" />
-            <marker date="1505271740957" expanded="true" signature="13386:13438" ph="{...}" />
-            <marker date="1505271740957" expanded="false" signature="13481:13492" ph=" { " />
-            <marker date="1505271740957" expanded="false" signature="13528:13534" ph=" }" />
-            <marker date="1505271740957" expanded="false" signature="13586:13597" ph=" { " />
-            <marker date="1505271740957" expanded="false" signature="13633:13639" ph=" }" />
-            <marker date="1505271740957" expanded="true" signature="13732:13784" ph="{...}" />
-            <marker date="1505271740957" expanded="true" signature="13862:13914" ph="{...}" />
-            <marker date="1505271740957" expanded="true" signature="13972:14230" ph="{...}" />
-            <marker date="1505271740957" expanded="false" signature="14013:14028" ph=" { " />
-            <marker date="1505271740957" expanded="false" signature="14064:14074" ph=" }" />
-            <marker date="1505271740957" expanded="true" signature="14164:14224" ph="{...}" />
-            <marker date="1505271740957" expanded="true" signature="14280:14330" ph="{...}" />
-          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/src/main/java/com/baidu/android/voicedemo/activity/MyActivity.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="84">
-          <caret line="229" column="0" lean-forward="true" selection-start-line="229" selection-start-column="0" selection-end-line="229" selection-end-column="0" />
+        <state relative-caret-position="31">
+          <caret line="90" column="26" lean-forward="false" selection-start-line="90" selection-start-column="26" selection-end-line="90" selection-end-column="26" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#4693#4940#0" expanded="true" />
-            <element signature="e#4939#4940#0" expanded="true" />
-            <element signature="e#5402#5591#0" expanded="true" />
-            <element signature="e#5590#5591#0" expanded="true" />
-            <element signature="e#15326#15327#0" expanded="true" />
-            <element signature="e#15361#15362#0" expanded="true" />
-            <element signature="e#15457#15458#0" expanded="true" />
-            <element signature="e#15494#15495#0" expanded="true" />
-            <element signature="e#15945#15953#0" expanded="true" />
-            <element signature="e#39036#39037#0" expanded="true" />
-            <element signature="e#39089#39090#0" expanded="true" />
-            <element signature="e#39637#39796#0" expanded="true" />
-            <element signature="e#39795#39796#0" expanded="true" />
-            <element signature="e#40021#40180#0" expanded="true" />
-            <element signature="e#40179#40180#0" expanded="true" />
-            <element signature="e#43214#43215#0" expanded="true" />
-            <element signature="e#43245#43246#0" expanded="true" />
+            <element signature="e#13835#13836#0" expanded="true" />
+            <element signature="e#13885#13886#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-  </component>
-  <component name="masterDetails">
-    <states>
-      <state key="ProjectJDKs.UI">
-        <settings>
-          <last-edited>1.8</last-edited>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-    </states>
   </component>
 </project>

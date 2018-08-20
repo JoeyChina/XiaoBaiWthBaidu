@@ -1,7 +1,7 @@
-#Mon Aug 20 17:58:58 CST 2018
-base.0=D\:\\APP\\XiaoBaiWthBaidu\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_bc1ff21100d6147b87a9dfe1cc2aae6d581fa37a
-renamed.1=classes.dex
-renamed.0=classes2.dex
-file.1=D\:\\APP\\XiaoBaiWthBaidu\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_22f1ef9cd69b20684e2947c6be7f48da5036017d\\classes.dex
-base.1=D\:\\APP\\XiaoBaiWthBaidu\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_22f1ef9cd69b20684e2947c6be7f48da5036017d
-file.0=D\:\\APP\\XiaoBaiWthBaidu\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_bc1ff21100d6147b87a9dfe1cc2aae6d581fa37a\\classes.dex
+#Mon Aug 20 23:19:37 CST 2018
+base.0=D\:\\work\\GitHub\\XiaoBaiWthBaidu\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_ecc0fe40566bff6ad8be69031bcee6daa125d94c
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=D\:\\work\\GitHub\\XiaoBaiWthBaidu\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_17fabce0600b7b0ccd6eeac78734c4e35a8cad8f\\classes.dex
+base.1=D\:\\work\\GitHub\\XiaoBaiWthBaidu\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_17fabce0600b7b0ccd6eeac78734c4e35a8cad8f
+file.0=D\:\\work\\GitHub\\XiaoBaiWthBaidu\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_ecc0fe40566bff6ad8be69031bcee6daa125d94c\\classes.dex
