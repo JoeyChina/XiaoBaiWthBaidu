@@ -1,18 +1,18 @@
 [
     {
-        "merged": "D:\\work\\GitHub\\XiaoBaiWthBaidu\\app\\build\\intermediates\\res\\merged\\debug\\xml\\setting_nlu.xml",
-        "source": "D:\\work\\GitHub\\XiaoBaiWthBaidu\\app\\src\\main\\res\\xml\\setting_nlu.xml"
+        "merged": "D:\\APP\\XiaoBaiWthBaidu\\app\\build\\intermediates\\res\\merged\\debug\\xml\\setting_online.xml",
+        "source": "D:\\APP\\XiaoBaiWthBaidu\\app\\src\\main\\res\\xml\\setting_online.xml"
     },
     {
-        "merged": "D:\\work\\GitHub\\XiaoBaiWthBaidu\\app\\build\\intermediates\\res\\merged\\debug\\xml\\setting_online.xml",
-        "source": "D:\\work\\GitHub\\XiaoBaiWthBaidu\\app\\src\\main\\res\\xml\\setting_online.xml"
+        "merged": "D:\\APP\\XiaoBaiWthBaidu\\app\\build\\intermediates\\res\\merged\\debug\\xml\\setting_all.xml",
+        "source": "D:\\APP\\XiaoBaiWthBaidu\\app\\src\\main\\res\\xml\\setting_all.xml"
     },
     {
-        "merged": "D:\\work\\GitHub\\XiaoBaiWthBaidu\\app\\build\\intermediates\\res\\merged\\debug\\xml\\setting_offline.xml",
-        "source": "D:\\work\\GitHub\\XiaoBaiWthBaidu\\app\\src\\main\\res\\xml\\setting_offline.xml"
+        "merged": "D:\\APP\\XiaoBaiWthBaidu\\app\\build\\intermediates\\res\\merged\\debug\\xml\\setting_nlu.xml",
+        "source": "D:\\APP\\XiaoBaiWthBaidu\\app\\src\\main\\res\\xml\\setting_nlu.xml"
     },
     {
-        "merged": "D:\\work\\GitHub\\XiaoBaiWthBaidu\\app\\build\\intermediates\\res\\merged\\debug\\xml\\setting_all.xml",
-        "source": "D:\\work\\GitHub\\XiaoBaiWthBaidu\\app\\src\\main\\res\\xml\\setting_all.xml"
+        "merged": "D:\\APP\\XiaoBaiWthBaidu\\app\\build\\intermediates\\res\\merged\\debug\\xml\\setting_offline.xml",
+        "source": "D:\\APP\\XiaoBaiWthBaidu\\app\\src\\main\\res\\xml\\setting_offline.xml"
     }
 ]

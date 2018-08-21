@@ -1,306 +1,306 @@
 [
     {
-        "merged": "D:\\work\\GitHub\\XiaoBaiWthBaidu\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_text_cursor_material.xml",
-        "source": "C:\\Users\\Joey\\.android\\build-cache\\db10831a932c5682c37ea2a902c8b18448cfd357\\output\\res\\drawable\\abc_text_cursor_material.xml"
+        "merged": "D:\\APP\\XiaoBaiWthBaidu\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_light.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\8afab530a9623dbadf91fc2b2c83c329087c60a7\\output\\res\\drawable\\abc_item_background_holo_light.xml"
     },
     {
-        "merged": "D:\\work\\GitHub\\XiaoBaiWthBaidu\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bdspeech_btn_greendeep_pressed.9.png",
-        "source": "D:\\work\\GitHub\\XiaoBaiWthBaidu\\app\\src\\main\\res\\drawable\\bdspeech_btn_greendeep_pressed.9.png"
+        "merged": "D:\\APP\\XiaoBaiWthBaidu\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_light.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\8afab530a9623dbadf91fc2b2c83c329087c60a7\\output\\res\\drawable\\abc_list_selector_background_transition_holo_light.xml"
     },
     {
-        "merged": "D:\\work\\GitHub\\XiaoBaiWthBaidu\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_indicator_material.xml",
-        "source": "C:\\Users\\Joey\\.android\\build-cache\\db10831a932c5682c37ea2a902c8b18448cfd357\\output\\res\\drawable\\abc_ratingbar_indicator_material.xml"
+        "merged": "D:\\APP\\XiaoBaiWthBaidu\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_vector_test.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\8afab530a9623dbadf91fc2b2c83c329087c60a7\\output\\res\\drawable\\abc_vector_test.xml"
     },
     {
-        "merged": "D:\\work\\GitHub\\XiaoBaiWthBaidu\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bdspeech_left_pressed.9.png",
-        "source": "D:\\work\\GitHub\\XiaoBaiWthBaidu\\app\\src\\main\\res\\drawable\\bdspeech_left_pressed.9.png"
+        "merged": "D:\\APP\\XiaoBaiWthBaidu\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_clear_material.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\8afab530a9623dbadf91fc2b2c83c329087c60a7\\output\\res\\drawable\\abc_ic_clear_material.xml"
     },
     {
-        "merged": "D:\\work\\GitHub\\XiaoBaiWthBaidu\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bdspeech_right_reddeep_pressed.9.png",
-        "source": "D:\\work\\GitHub\\XiaoBaiWthBaidu\\app\\src\\main\\res\\drawable\\bdspeech_right_reddeep_pressed.9.png"
+        "merged": "D:\\APP\\XiaoBaiWthBaidu\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_search_api_material.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\8afab530a9623dbadf91fc2b2c83c329087c60a7\\output\\res\\drawable\\abc_ic_search_api_material.xml"
     },
     {
-        "merged": "D:\\work\\GitHub\\XiaoBaiWthBaidu\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_internal_bg.xml",
-        "source": "C:\\Users\\Joey\\.android\\build-cache\\db10831a932c5682c37ea2a902c8b18448cfd357\\output\\res\\drawable\\abc_cab_background_internal_bg.xml"
+        "merged": "D:\\APP\\XiaoBaiWthBaidu\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_go_search_api_material.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\8afab530a9623dbadf91fc2b2c83c329087c60a7\\output\\res\\drawable\\abc_ic_go_search_api_material.xml"
     },
     {
-        "merged": "D:\\work\\GitHub\\XiaoBaiWthBaidu\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bdspeech_digital_deep_bg.9.png",
-        "source": "D:\\work\\GitHub\\XiaoBaiWthBaidu\\app\\src\\main\\res\\drawable\\bdspeech_digital_deep_bg.9.png"
+        "merged": "D:\\APP\\XiaoBaiWthBaidu\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bd_asr_popup_bg.xml",
+        "source": "D:\\APP\\XiaoBaiWthBaidu\\app\\src\\main\\res\\drawable\\bd_asr_popup_bg.xml"
     },
     {
-        "merged": "D:\\work\\GitHub\\XiaoBaiWthBaidu\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_top_material.xml",
-        "source": "C:\\Users\\Joey\\.android\\build-cache\\db10831a932c5682c37ea2a902c8b18448cfd357\\output\\res\\drawable\\abc_cab_background_top_material.xml"
+        "merged": "D:\\APP\\XiaoBaiWthBaidu\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bdspeech_btn_recognizing.9.png",
+        "source": "D:\\APP\\XiaoBaiWthBaidu\\app\\src\\main\\res\\drawable\\bdspeech_btn_recognizing.9.png"
     },
     {
-        "merged": "D:\\work\\GitHub\\XiaoBaiWthBaidu\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_dark.xml",
-        "source": "C:\\Users\\Joey\\.android\\build-cache\\db10831a932c5682c37ea2a902c8b18448cfd357\\output\\res\\drawable\\abc_list_selector_holo_dark.xml"
+        "merged": "D:\\APP\\XiaoBaiWthBaidu\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bdspeech_btn_orangedeep_pressed.9.png",
+        "source": "D:\\APP\\XiaoBaiWthBaidu\\app\\src\\main\\res\\drawable\\bdspeech_btn_orangedeep_pressed.9.png"
     },
     {
-        "merged": "D:\\work\\GitHub\\XiaoBaiWthBaidu\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_radio_material.xml",
-        "source": "C:\\Users\\Joey\\.android\\build-cache\\db10831a932c5682c37ea2a902c8b18448cfd357\\output\\res\\drawable\\abc_btn_radio_material.xml"
+        "merged": "D:\\APP\\XiaoBaiWthBaidu\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_borderless_material.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\8afab530a9623dbadf91fc2b2c83c329087c60a7\\output\\res\\drawable\\abc_btn_borderless_material.xml"
     },
     {
-        "merged": "D:\\work\\GitHub\\XiaoBaiWthBaidu\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_voice_search_api_material.xml",
-        "source": "C:\\Users\\Joey\\.android\\build-cache\\db10831a932c5682c37ea2a902c8b18448cfd357\\output\\res\\drawable\\abc_ic_voice_search_api_material.xml"
+        "merged": "D:\\APP\\XiaoBaiWthBaidu\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_dark.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\8afab530a9623dbadf91fc2b2c83c329087c60a7\\output\\res\\drawable\\abc_item_background_holo_dark.xml"
     },
     {
-        "merged": "D:\\work\\GitHub\\XiaoBaiWthBaidu\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bdspeech_btn_orangedeep_pressed.9.png",
-        "source": "D:\\work\\GitHub\\XiaoBaiWthBaidu\\app\\src\\main\\res\\drawable\\bdspeech_btn_orangedeep_pressed.9.png"
+        "merged": "D:\\APP\\XiaoBaiWthBaidu\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_material.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\8afab530a9623dbadf91fc2b2c83c329087c60a7\\output\\res\\drawable\\abc_ratingbar_material.xml"
     },
     {
-        "merged": "D:\\work\\GitHub\\XiaoBaiWthBaidu\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_ab_back_material.xml",
-        "source": "C:\\Users\\Joey\\.android\\build-cache\\db10831a932c5682c37ea2a902c8b18448cfd357\\output\\res\\drawable\\abc_ic_ab_back_material.xml"
+        "merged": "D:\\APP\\XiaoBaiWthBaidu\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bdspeech_right_normal.9.png",
+        "source": "D:\\APP\\XiaoBaiWthBaidu\\app\\src\\main\\res\\drawable\\bdspeech_right_normal.9.png"
     },
     {
-        "merged": "D:\\work\\GitHub\\XiaoBaiWthBaidu\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bdspeech_right_orangelight_pressed.9.png",
-        "source": "D:\\work\\GitHub\\XiaoBaiWthBaidu\\app\\src\\main\\res\\drawable\\bdspeech_right_orangelight_pressed.9.png"
+        "merged": "D:\\APP\\XiaoBaiWthBaidu\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bdspeech_right_redlight_pressed.9.png",
+        "source": "D:\\APP\\XiaoBaiWthBaidu\\app\\src\\main\\res\\drawable\\bdspeech_right_redlight_pressed.9.png"
     },
     {
-        "merged": "D:\\work\\GitHub\\XiaoBaiWthBaidu\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_menu_overflow_material.xml",
-        "source": "C:\\Users\\Joey\\.android\\build-cache\\db10831a932c5682c37ea2a902c8b18448cfd357\\output\\res\\drawable\\abc_ic_menu_overflow_material.xml"
+        "merged": "D:\\APP\\XiaoBaiWthBaidu\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bdspeech_right_greendeep_pressed.9.png",
+        "source": "D:\\APP\\XiaoBaiWthBaidu\\app\\src\\main\\res\\drawable\\bdspeech_right_greendeep_pressed.9.png"
     },
     {
-        "merged": "D:\\work\\GitHub\\XiaoBaiWthBaidu\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_light.xml",
-        "source": "C:\\Users\\Joey\\.android\\build-cache\\db10831a932c5682c37ea2a902c8b18448cfd357\\output\\res\\drawable\\abc_list_selector_holo_light.xml"
+        "merged": "D:\\APP\\XiaoBaiWthBaidu\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bdspeech_digital_bg.9.png",
+        "source": "D:\\APP\\XiaoBaiWthBaidu\\app\\src\\main\\res\\drawable\\bdspeech_digital_bg.9.png"
     },
     {
-        "merged": "D:\\work\\GitHub\\XiaoBaiWthBaidu\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\notification_icon_background.xml",
-        "source": "C:\\Users\\Joey\\.android\\build-cache\\db10831a932c5682c37ea2a902c8b18448cfd357\\output\\res\\drawable\\notification_icon_background.xml"
+        "merged": "D:\\APP\\XiaoBaiWthBaidu\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_radio_material.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\8afab530a9623dbadf91fc2b2c83c329087c60a7\\output\\res\\drawable\\abc_btn_radio_material.xml"
     },
     {
-        "merged": "D:\\work\\GitHub\\XiaoBaiWthBaidu\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_dialog_material_background.xml",
-        "source": "C:\\Users\\Joey\\.android\\build-cache\\db10831a932c5682c37ea2a902c8b18448cfd357\\output\\res\\drawable\\abc_dialog_material_background.xml"
+        "merged": "D:\\APP\\XiaoBaiWthBaidu\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_textfield_search_material.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\8afab530a9623dbadf91fc2b2c83c329087c60a7\\output\\res\\drawable\\abc_textfield_search_material.xml"
     },
     {
-        "merged": "D:\\work\\GitHub\\XiaoBaiWthBaidu\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_borderless_material.xml",
-        "source": "C:\\Users\\Joey\\.android\\build-cache\\db10831a932c5682c37ea2a902c8b18448cfd357\\output\\res\\drawable\\abc_btn_borderless_material.xml"
+        "merged": "D:\\APP\\XiaoBaiWthBaidu\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bdspeech_btn_pressed.9.png",
+        "source": "D:\\APP\\XiaoBaiWthBaidu\\app\\src\\main\\res\\drawable\\bdspeech_btn_pressed.9.png"
     },
     {
-        "merged": "D:\\work\\GitHub\\XiaoBaiWthBaidu\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_spinner_textfield_background_material.xml",
-        "source": "C:\\Users\\Joey\\.android\\build-cache\\db10831a932c5682c37ea2a902c8b18448cfd357\\output\\res\\drawable\\abc_spinner_textfield_background_material.xml"
+        "merged": "D:\\APP\\XiaoBaiWthBaidu\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bdspeech_btn_reddeep_pressed.9.png",
+        "source": "D:\\APP\\XiaoBaiWthBaidu\\app\\src\\main\\res\\drawable\\bdspeech_btn_reddeep_pressed.9.png"
     },
     {
-        "merged": "D:\\work\\GitHub\\XiaoBaiWthBaidu\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bdspeech_right_normal.9.png",
-        "source": "D:\\work\\GitHub\\XiaoBaiWthBaidu\\app\\src\\main\\res\\drawable\\bdspeech_right_normal.9.png"
+        "merged": "D:\\APP\\XiaoBaiWthBaidu\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bdspeech_btn_normal.9.png",
+        "source": "D:\\APP\\XiaoBaiWthBaidu\\app\\src\\main\\res\\drawable\\bdspeech_btn_normal.9.png"
     },
     {
-        "merged": "D:\\work\\GitHub\\XiaoBaiWthBaidu\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bdspeech_btn_greenlight_normal.9.png",
-        "source": "D:\\work\\GitHub\\XiaoBaiWthBaidu\\app\\src\\main\\res\\drawable\\bdspeech_btn_greenlight_normal.9.png"
+        "merged": "D:\\APP\\XiaoBaiWthBaidu\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_light.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\8afab530a9623dbadf91fc2b2c83c329087c60a7\\output\\res\\drawable\\abc_list_selector_holo_light.xml"
     },
     {
-        "merged": "D:\\work\\GitHub\\XiaoBaiWthBaidu\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_default_mtrl_shape.xml",
-        "source": "C:\\Users\\Joey\\.android\\build-cache\\db10831a932c5682c37ea2a902c8b18448cfd357\\output\\res\\drawable\\abc_btn_default_mtrl_shape.xml"
+        "merged": "D:\\APP\\XiaoBaiWthBaidu\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bdspeech_left_deep_normal.9.png",
+        "source": "D:\\APP\\XiaoBaiWthBaidu\\app\\src\\main\\res\\drawable\\bdspeech_left_deep_normal.9.png"
     },
     {
-        "merged": "D:\\work\\GitHub\\XiaoBaiWthBaidu\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_textfield_search_material.xml",
-        "source": "C:\\Users\\Joey\\.android\\build-cache\\db10831a932c5682c37ea2a902c8b18448cfd357\\output\\res\\drawable\\abc_textfield_search_material.xml"
+        "merged": "D:\\APP\\XiaoBaiWthBaidu\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\notification_tile_bg.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\8afab530a9623dbadf91fc2b2c83c329087c60a7\\output\\res\\drawable\\notification_tile_bg.xml"
     },
     {
-        "merged": "D:\\work\\GitHub\\XiaoBaiWthBaidu\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bdspeech_btn_reddeep_normal.9.png",
-        "source": "D:\\work\\GitHub\\XiaoBaiWthBaidu\\app\\src\\main\\res\\drawable\\bdspeech_btn_reddeep_normal.9.png"
+        "merged": "D:\\APP\\XiaoBaiWthBaidu\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bdspeech_btn_greenlight_normal.9.png",
+        "source": "D:\\APP\\XiaoBaiWthBaidu\\app\\src\\main\\res\\drawable\\bdspeech_btn_greenlight_normal.9.png"
     },
     {
-        "merged": "D:\\work\\GitHub\\XiaoBaiWthBaidu\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bdspeech_left_deep_pressed.9.png",
-        "source": "D:\\work\\GitHub\\XiaoBaiWthBaidu\\app\\src\\main\\res\\drawable\\bdspeech_left_deep_pressed.9.png"
+        "merged": "D:\\APP\\XiaoBaiWthBaidu\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bdspeech_left_deep_pressed.9.png",
+        "source": "D:\\APP\\XiaoBaiWthBaidu\\app\\src\\main\\res\\drawable\\bdspeech_left_deep_pressed.9.png"
     },
     {
-        "merged": "D:\\work\\GitHub\\XiaoBaiWthBaidu\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bdspeech_left_normal.9.png",
-        "source": "D:\\work\\GitHub\\XiaoBaiWthBaidu\\app\\src\\main\\res\\drawable\\bdspeech_left_normal.9.png"
+        "merged": "D:\\APP\\XiaoBaiWthBaidu\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bdspeech_right_orangedeep_normal.9.png",
+        "source": "D:\\APP\\XiaoBaiWthBaidu\\app\\src\\main\\res\\drawable\\bdspeech_right_orangedeep_normal.9.png"
     },
     {
-        "merged": "D:\\work\\GitHub\\XiaoBaiWthBaidu\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_tab_indicator_material.xml",
-        "source": "C:\\Users\\Joey\\.android\\build-cache\\db10831a932c5682c37ea2a902c8b18448cfd357\\output\\res\\drawable\\abc_tab_indicator_material.xml"
+        "merged": "D:\\APP\\XiaoBaiWthBaidu\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_track_material.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\8afab530a9623dbadf91fc2b2c83c329087c60a7\\output\\res\\drawable\\abc_seekbar_track_material.xml"
     },
     {
-        "merged": "D:\\work\\GitHub\\XiaoBaiWthBaidu\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bdspeech_left_deep_normal.9.png",
-        "source": "D:\\work\\GitHub\\XiaoBaiWthBaidu\\app\\src\\main\\res\\drawable\\bdspeech_left_deep_normal.9.png"
+        "merged": "D:\\APP\\XiaoBaiWthBaidu\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bdspeech_btn_orangelight_normal.9.png",
+        "source": "D:\\APP\\XiaoBaiWthBaidu\\app\\src\\main\\res\\drawable\\bdspeech_btn_orangelight_normal.9.png"
     },
     {
-        "merged": "D:\\work\\GitHub\\XiaoBaiWthBaidu\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bdspeech_btn_redlight_normal.9.png",
-        "source": "D:\\work\\GitHub\\XiaoBaiWthBaidu\\app\\src\\main\\res\\drawable\\bdspeech_btn_redlight_normal.9.png"
+        "merged": "D:\\APP\\XiaoBaiWthBaidu\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bdspeech_right_redlight_normal.9.png",
+        "source": "D:\\APP\\XiaoBaiWthBaidu\\app\\src\\main\\res\\drawable\\bdspeech_right_redlight_normal.9.png"
     },
     {
-        "merged": "D:\\work\\GitHub\\XiaoBaiWthBaidu\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_small_material.xml",
-        "source": "C:\\Users\\Joey\\.android\\build-cache\\db10831a932c5682c37ea2a902c8b18448cfd357\\output\\res\\drawable\\abc_ratingbar_small_material.xml"
+        "merged": "D:\\APP\\XiaoBaiWthBaidu\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bdspeech_btn_redlight_pressed.9.png",
+        "source": "D:\\APP\\XiaoBaiWthBaidu\\app\\src\\main\\res\\drawable\\bdspeech_btn_redlight_pressed.9.png"
     },
     {
-        "merged": "D:\\work\\GitHub\\XiaoBaiWthBaidu\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_tick_mark_material.xml",
-        "source": "C:\\Users\\Joey\\.android\\build-cache\\db10831a932c5682c37ea2a902c8b18448cfd357\\output\\res\\drawable\\abc_seekbar_tick_mark_material.xml"
+        "merged": "D:\\APP\\XiaoBaiWthBaidu\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bdspeech_right_greenlight_pressed.9.png",
+        "source": "D:\\APP\\XiaoBaiWthBaidu\\app\\src\\main\\res\\drawable\\bdspeech_right_greenlight_pressed.9.png"
     },
     {
-        "merged": "D:\\work\\GitHub\\XiaoBaiWthBaidu\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bdspeech_btn_recognizing_deep.9.png",
-        "source": "D:\\work\\GitHub\\XiaoBaiWthBaidu\\app\\src\\main\\res\\drawable\\bdspeech_btn_recognizing_deep.9.png"
+        "merged": "D:\\APP\\XiaoBaiWthBaidu\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_top_material.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\8afab530a9623dbadf91fc2b2c83c329087c60a7\\output\\res\\drawable\\abc_cab_background_top_material.xml"
     },
     {
-        "merged": "D:\\work\\GitHub\\XiaoBaiWthBaidu\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bdspeech_btn_orangelight_pressed.9.png",
-        "source": "D:\\work\\GitHub\\XiaoBaiWthBaidu\\app\\src\\main\\res\\drawable\\bdspeech_btn_orangelight_pressed.9.png"
+        "merged": "D:\\APP\\XiaoBaiWthBaidu\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bdspeech_right_orangedeep_pressed.9.png",
+        "source": "D:\\APP\\XiaoBaiWthBaidu\\app\\src\\main\\res\\drawable\\bdspeech_right_orangedeep_pressed.9.png"
     },
     {
-        "merged": "D:\\work\\GitHub\\XiaoBaiWthBaidu\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bdspeech_btn_greendeep_normal.9.png",
-        "source": "D:\\work\\GitHub\\XiaoBaiWthBaidu\\app\\src\\main\\res\\drawable\\bdspeech_btn_greendeep_normal.9.png"
+        "merged": "D:\\APP\\XiaoBaiWthBaidu\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_check_material.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\8afab530a9623dbadf91fc2b2c83c329087c60a7\\output\\res\\drawable\\abc_btn_check_material.xml"
     },
     {
-        "merged": "D:\\work\\GitHub\\XiaoBaiWthBaidu\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_go_search_api_material.xml",
-        "source": "C:\\Users\\Joey\\.android\\build-cache\\db10831a932c5682c37ea2a902c8b18448cfd357\\output\\res\\drawable\\abc_ic_go_search_api_material.xml"
+        "merged": "D:\\APP\\XiaoBaiWthBaidu\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_menu_overflow_material.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\8afab530a9623dbadf91fc2b2c83c329087c60a7\\output\\res\\drawable\\abc_ic_menu_overflow_material.xml"
     },
     {
-        "merged": "D:\\work\\GitHub\\XiaoBaiWthBaidu\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\logo_xiaobai.png",
-        "source": "D:\\work\\GitHub\\XiaoBaiWthBaidu\\app\\src\\main\\res\\drawable\\logo_xiaobai.png"
+        "merged": "D:\\APP\\XiaoBaiWthBaidu\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_tab_indicator_material.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\8afab530a9623dbadf91fc2b2c83c329087c60a7\\output\\res\\drawable\\abc_tab_indicator_material.xml"
     },
     {
-        "merged": "D:\\work\\GitHub\\XiaoBaiWthBaidu\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bdspeech_btn_pressed.9.png",
-        "source": "D:\\work\\GitHub\\XiaoBaiWthBaidu\\app\\src\\main\\res\\drawable\\bdspeech_btn_pressed.9.png"
+        "merged": "D:\\APP\\XiaoBaiWthBaidu\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_edit_text_material.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\8afab530a9623dbadf91fc2b2c83c329087c60a7\\output\\res\\drawable\\abc_edit_text_material.xml"
     },
     {
-        "merged": "D:\\work\\GitHub\\XiaoBaiWthBaidu\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bdspeech_right_greenlight_normal.9.png",
-        "source": "D:\\work\\GitHub\\XiaoBaiWthBaidu\\app\\src\\main\\res\\drawable\\bdspeech_right_greenlight_normal.9.png"
+        "merged": "D:\\APP\\XiaoBaiWthBaidu\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_text_cursor_material.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\8afab530a9623dbadf91fc2b2c83c329087c60a7\\output\\res\\drawable\\abc_text_cursor_material.xml"
     },
     {
-        "merged": "D:\\work\\GitHub\\XiaoBaiWthBaidu\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bdspeech_right_greendeep_normal.9.png",
-        "source": "D:\\work\\GitHub\\XiaoBaiWthBaidu\\app\\src\\main\\res\\drawable\\bdspeech_right_greendeep_normal.9.png"
+        "merged": "D:\\APP\\XiaoBaiWthBaidu\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bdspeech_btn_greenlight_pressed.9.png",
+        "source": "D:\\APP\\XiaoBaiWthBaidu\\app\\src\\main\\res\\drawable\\bdspeech_btn_greenlight_pressed.9.png"
     },
     {
-        "merged": "D:\\work\\GitHub\\XiaoBaiWthBaidu\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bdspeech_digital_bg.9.png",
-        "source": "D:\\work\\GitHub\\XiaoBaiWthBaidu\\app\\src\\main\\res\\drawable\\bdspeech_digital_bg.9.png"
+        "merged": "D:\\APP\\XiaoBaiWthBaidu\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_voice_search_api_material.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\8afab530a9623dbadf91fc2b2c83c329087c60a7\\output\\res\\drawable\\abc_ic_voice_search_api_material.xml"
     },
     {
-        "merged": "D:\\work\\GitHub\\XiaoBaiWthBaidu\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bdspeech_btn_redlight_pressed.9.png",
-        "source": "D:\\work\\GitHub\\XiaoBaiWthBaidu\\app\\src\\main\\res\\drawable\\bdspeech_btn_redlight_pressed.9.png"
+        "merged": "D:\\APP\\XiaoBaiWthBaidu\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bdspeech_btn_recognizing_deep.9.png",
+        "source": "D:\\APP\\XiaoBaiWthBaidu\\app\\src\\main\\res\\drawable\\bdspeech_btn_recognizing_deep.9.png"
     },
     {
-        "merged": "D:\\work\\GitHub\\XiaoBaiWthBaidu\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bdspeech_btn_reddeep_pressed.9.png",
-        "source": "D:\\work\\GitHub\\XiaoBaiWthBaidu\\app\\src\\main\\res\\drawable\\bdspeech_btn_reddeep_pressed.9.png"
+        "merged": "D:\\APP\\XiaoBaiWthBaidu\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bdspeech_btn_greendeep_normal.9.png",
+        "source": "D:\\APP\\XiaoBaiWthBaidu\\app\\src\\main\\res\\drawable\\bdspeech_btn_greendeep_normal.9.png"
     },
     {
-        "merged": "D:\\work\\GitHub\\XiaoBaiWthBaidu\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_vector_test.xml",
-        "source": "C:\\Users\\Joey\\.android\\build-cache\\db10831a932c5682c37ea2a902c8b18448cfd357\\output\\res\\drawable\\abc_vector_test.xml"
+        "merged": "D:\\APP\\XiaoBaiWthBaidu\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_indicator_material.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\8afab530a9623dbadf91fc2b2c83c329087c60a7\\output\\res\\drawable\\abc_ratingbar_indicator_material.xml"
     },
     {
-        "merged": "D:\\work\\GitHub\\XiaoBaiWthBaidu\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_clear_material.xml",
-        "source": "C:\\Users\\Joey\\.android\\build-cache\\db10831a932c5682c37ea2a902c8b18448cfd357\\output\\res\\drawable\\abc_ic_clear_material.xml"
+        "merged": "D:\\APP\\XiaoBaiWthBaidu\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_arrow_drop_right_black_24dp.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\8afab530a9623dbadf91fc2b2c83c329087c60a7\\output\\res\\drawable\\abc_ic_arrow_drop_right_black_24dp.xml"
     },
     {
-        "merged": "D:\\work\\GitHub\\XiaoBaiWthBaidu\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_track_material.xml",
-        "source": "C:\\Users\\Joey\\.android\\build-cache\\db10831a932c5682c37ea2a902c8b18448cfd357\\output\\res\\drawable\\abc_seekbar_track_material.xml"
+        "merged": "D:\\APP\\XiaoBaiWthBaidu\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bdspeech_right_pressed.9.png",
+        "source": "D:\\APP\\XiaoBaiWthBaidu\\app\\src\\main\\res\\drawable\\bdspeech_right_pressed.9.png"
     },
     {
-        "merged": "D:\\work\\GitHub\\XiaoBaiWthBaidu\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bdspeech_right_greendeep_pressed.9.png",
-        "source": "D:\\work\\GitHub\\XiaoBaiWthBaidu\\app\\src\\main\\res\\drawable\\bdspeech_right_greendeep_pressed.9.png"
+        "merged": "D:\\APP\\XiaoBaiWthBaidu\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bdspeech_right_reddeep_pressed.9.png",
+        "source": "D:\\APP\\XiaoBaiWthBaidu\\app\\src\\main\\res\\drawable\\bdspeech_right_reddeep_pressed.9.png"
     },
     {
-        "merged": "D:\\work\\GitHub\\XiaoBaiWthBaidu\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bd_asr_popup_bg.xml",
-        "source": "D:\\work\\GitHub\\XiaoBaiWthBaidu\\app\\src\\main\\res\\drawable\\bd_asr_popup_bg.xml"
+        "merged": "D:\\APP\\XiaoBaiWthBaidu\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\notification_bg_low.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\8afab530a9623dbadf91fc2b2c83c329087c60a7\\output\\res\\drawable\\notification_bg_low.xml"
     },
     {
-        "merged": "D:\\work\\GitHub\\XiaoBaiWthBaidu\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bdspeech_right_redlight_pressed.9.png",
-        "source": "D:\\work\\GitHub\\XiaoBaiWthBaidu\\app\\src\\main\\res\\drawable\\bdspeech_right_redlight_pressed.9.png"
+        "merged": "D:\\APP\\XiaoBaiWthBaidu\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bdspeech_btn_reddeep_normal.9.png",
+        "source": "D:\\APP\\XiaoBaiWthBaidu\\app\\src\\main\\res\\drawable\\bdspeech_btn_reddeep_normal.9.png"
     },
     {
-        "merged": "D:\\work\\GitHub\\XiaoBaiWthBaidu\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_light.xml",
-        "source": "C:\\Users\\Joey\\.android\\build-cache\\db10831a932c5682c37ea2a902c8b18448cfd357\\output\\res\\drawable\\abc_list_selector_background_transition_holo_light.xml"
+        "merged": "D:\\APP\\XiaoBaiWthBaidu\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bdspeech_btn_orangelight_pressed.9.png",
+        "source": "D:\\APP\\XiaoBaiWthBaidu\\app\\src\\main\\res\\drawable\\bdspeech_btn_orangelight_pressed.9.png"
     },
     {
-        "merged": "D:\\work\\GitHub\\XiaoBaiWthBaidu\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bdspeech_right_orangelight_normal.9.png",
-        "source": "D:\\work\\GitHub\\XiaoBaiWthBaidu\\app\\src\\main\\res\\drawable\\bdspeech_right_orangelight_normal.9.png"
+        "merged": "D:\\APP\\XiaoBaiWthBaidu\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_small_material.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\8afab530a9623dbadf91fc2b2c83c329087c60a7\\output\\res\\drawable\\abc_ratingbar_small_material.xml"
     },
     {
-        "merged": "D:\\work\\GitHub\\XiaoBaiWthBaidu\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_colored_material.xml",
-        "source": "C:\\Users\\Joey\\.android\\build-cache\\db10831a932c5682c37ea2a902c8b18448cfd357\\output\\res\\drawable\\abc_btn_colored_material.xml"
+        "merged": "D:\\APP\\XiaoBaiWthBaidu\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_dark.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\8afab530a9623dbadf91fc2b2c83c329087c60a7\\output\\res\\drawable\\abc_list_selector_holo_dark.xml"
     },
     {
-        "merged": "D:\\work\\GitHub\\XiaoBaiWthBaidu\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\notification_tile_bg.xml",
-        "source": "C:\\Users\\Joey\\.android\\build-cache\\db10831a932c5682c37ea2a902c8b18448cfd357\\output\\res\\drawable\\notification_tile_bg.xml"
+        "merged": "D:\\APP\\XiaoBaiWthBaidu\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bdspeech_btn_greendeep_pressed.9.png",
+        "source": "D:\\APP\\XiaoBaiWthBaidu\\app\\src\\main\\res\\drawable\\bdspeech_btn_greendeep_pressed.9.png"
     },
     {
-        "merged": "D:\\work\\GitHub\\XiaoBaiWthBaidu\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_arrow_drop_right_black_24dp.xml",
-        "source": "C:\\Users\\Joey\\.android\\build-cache\\db10831a932c5682c37ea2a902c8b18448cfd357\\output\\res\\drawable\\abc_ic_arrow_drop_right_black_24dp.xml"
+        "merged": "D:\\APP\\XiaoBaiWthBaidu\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bdspeech_right_orangelight_normal.9.png",
+        "source": "D:\\APP\\XiaoBaiWthBaidu\\app\\src\\main\\res\\drawable\\bdspeech_right_orangelight_normal.9.png"
     },
     {
-        "merged": "D:\\work\\GitHub\\XiaoBaiWthBaidu\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bdspeech_right_orangedeep_normal.9.png",
-        "source": "D:\\work\\GitHub\\XiaoBaiWthBaidu\\app\\src\\main\\res\\drawable\\bdspeech_right_orangedeep_normal.9.png"
+        "merged": "D:\\APP\\XiaoBaiWthBaidu\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bdspeech_right_reddeep_normal.9.png",
+        "source": "D:\\APP\\XiaoBaiWthBaidu\\app\\src\\main\\res\\drawable\\bdspeech_right_reddeep_normal.9.png"
     },
     {
-        "merged": "D:\\work\\GitHub\\XiaoBaiWthBaidu\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bdspeech_right_reddeep_normal.9.png",
-        "source": "D:\\work\\GitHub\\XiaoBaiWthBaidu\\app\\src\\main\\res\\drawable\\bdspeech_right_reddeep_normal.9.png"
+        "merged": "D:\\APP\\XiaoBaiWthBaidu\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_default_mtrl_shape.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\8afab530a9623dbadf91fc2b2c83c329087c60a7\\output\\res\\drawable\\abc_btn_default_mtrl_shape.xml"
     },
     {
-        "merged": "D:\\work\\GitHub\\XiaoBaiWthBaidu\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_switch_thumb_material.xml",
-        "source": "C:\\Users\\Joey\\.android\\build-cache\\db10831a932c5682c37ea2a902c8b18448cfd357\\output\\res\\drawable\\abc_switch_thumb_material.xml"
+        "merged": "D:\\APP\\XiaoBaiWthBaidu\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bdspeech_digital_deep_bg.9.png",
+        "source": "D:\\APP\\XiaoBaiWthBaidu\\app\\src\\main\\res\\drawable\\bdspeech_digital_deep_bg.9.png"
     },
     {
-        "merged": "D:\\work\\GitHub\\XiaoBaiWthBaidu\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bdspeech_right_greenlight_pressed.9.png",
-        "source": "D:\\work\\GitHub\\XiaoBaiWthBaidu\\app\\src\\main\\res\\drawable\\bdspeech_right_greenlight_pressed.9.png"
+        "merged": "D:\\APP\\XiaoBaiWthBaidu\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bdspeech_right_orangelight_pressed.9.png",
+        "source": "D:\\APP\\XiaoBaiWthBaidu\\app\\src\\main\\res\\drawable\\bdspeech_right_orangelight_pressed.9.png"
     },
     {
-        "merged": "D:\\work\\GitHub\\XiaoBaiWthBaidu\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_material.xml",
-        "source": "C:\\Users\\Joey\\.android\\build-cache\\db10831a932c5682c37ea2a902c8b18448cfd357\\output\\res\\drawable\\abc_ratingbar_material.xml"
+        "merged": "D:\\APP\\XiaoBaiWthBaidu\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bdspeech_btn_orangedeep_normal.9.png",
+        "source": "D:\\APP\\XiaoBaiWthBaidu\\app\\src\\main\\res\\drawable\\bdspeech_btn_orangedeep_normal.9.png"
     },
     {
-        "merged": "D:\\work\\GitHub\\XiaoBaiWthBaidu\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_light.xml",
-        "source": "C:\\Users\\Joey\\.android\\build-cache\\db10831a932c5682c37ea2a902c8b18448cfd357\\output\\res\\drawable\\abc_item_background_holo_light.xml"
+        "merged": "D:\\APP\\XiaoBaiWthBaidu\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_ab_back_material.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\8afab530a9623dbadf91fc2b2c83c329087c60a7\\output\\res\\drawable\\abc_ic_ab_back_material.xml"
     },
     {
-        "merged": "D:\\work\\GitHub\\XiaoBaiWthBaidu\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_search_api_material.xml",
-        "source": "C:\\Users\\Joey\\.android\\build-cache\\db10831a932c5682c37ea2a902c8b18448cfd357\\output\\res\\drawable\\abc_ic_search_api_material.xml"
+        "merged": "D:\\APP\\XiaoBaiWthBaidu\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bdspeech_left_normal.9.png",
+        "source": "D:\\APP\\XiaoBaiWthBaidu\\app\\src\\main\\res\\drawable\\bdspeech_left_normal.9.png"
     },
     {
-        "merged": "D:\\work\\GitHub\\XiaoBaiWthBaidu\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_dark.xml",
-        "source": "C:\\Users\\Joey\\.android\\build-cache\\db10831a932c5682c37ea2a902c8b18448cfd357\\output\\res\\drawable\\abc_item_background_holo_dark.xml"
+        "merged": "D:\\APP\\XiaoBaiWthBaidu\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_dialog_material_background.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\8afab530a9623dbadf91fc2b2c83c329087c60a7\\output\\res\\drawable\\abc_dialog_material_background.xml"
     },
     {
-        "merged": "D:\\work\\GitHub\\XiaoBaiWthBaidu\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_dark.xml",
-        "source": "C:\\Users\\Joey\\.android\\build-cache\\db10831a932c5682c37ea2a902c8b18448cfd357\\output\\res\\drawable\\abc_list_selector_background_transition_holo_dark.xml"
+        "merged": "D:\\APP\\XiaoBaiWthBaidu\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\notification_bg.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\8afab530a9623dbadf91fc2b2c83c329087c60a7\\output\\res\\drawable\\notification_bg.xml"
     },
     {
-        "merged": "D:\\work\\GitHub\\XiaoBaiWthBaidu\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bdspeech_right_redlight_normal.9.png",
-        "source": "D:\\work\\GitHub\\XiaoBaiWthBaidu\\app\\src\\main\\res\\drawable\\bdspeech_right_redlight_normal.9.png"
+        "merged": "D:\\APP\\XiaoBaiWthBaidu\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_dark.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\8afab530a9623dbadf91fc2b2c83c329087c60a7\\output\\res\\drawable\\abc_list_selector_background_transition_holo_dark.xml"
     },
     {
-        "merged": "D:\\work\\GitHub\\XiaoBaiWthBaidu\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\notification_bg.xml",
-        "source": "C:\\Users\\Joey\\.android\\build-cache\\db10831a932c5682c37ea2a902c8b18448cfd357\\output\\res\\drawable\\notification_bg.xml"
+        "merged": "D:\\APP\\XiaoBaiWthBaidu\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_thumb_material.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\8afab530a9623dbadf91fc2b2c83c329087c60a7\\output\\res\\drawable\\abc_seekbar_thumb_material.xml"
     },
     {
-        "merged": "D:\\work\\GitHub\\XiaoBaiWthBaidu\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bdspeech_right_pressed.9.png",
-        "source": "D:\\work\\GitHub\\XiaoBaiWthBaidu\\app\\src\\main\\res\\drawable\\bdspeech_right_pressed.9.png"
+        "merged": "D:\\APP\\XiaoBaiWthBaidu\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_spinner_textfield_background_material.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\8afab530a9623dbadf91fc2b2c83c329087c60a7\\output\\res\\drawable\\abc_spinner_textfield_background_material.xml"
     },
     {
-        "merged": "D:\\work\\GitHub\\XiaoBaiWthBaidu\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bdspeech_btn_greenlight_pressed.9.png",
-        "source": "D:\\work\\GitHub\\XiaoBaiWthBaidu\\app\\src\\main\\res\\drawable\\bdspeech_btn_greenlight_pressed.9.png"
+        "merged": "D:\\APP\\XiaoBaiWthBaidu\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_switch_thumb_material.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\8afab530a9623dbadf91fc2b2c83c329087c60a7\\output\\res\\drawable\\abc_switch_thumb_material.xml"
     },
     {
-        "merged": "D:\\work\\GitHub\\XiaoBaiWthBaidu\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bdspeech_btn_recognizing.9.png",
-        "source": "D:\\work\\GitHub\\XiaoBaiWthBaidu\\app\\src\\main\\res\\drawable\\bdspeech_btn_recognizing.9.png"
+        "merged": "D:\\APP\\XiaoBaiWthBaidu\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bdspeech_right_greendeep_normal.9.png",
+        "source": "D:\\APP\\XiaoBaiWthBaidu\\app\\src\\main\\res\\drawable\\bdspeech_right_greendeep_normal.9.png"
     },
     {
-        "merged": "D:\\work\\GitHub\\XiaoBaiWthBaidu\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_check_material.xml",
-        "source": "C:\\Users\\Joey\\.android\\build-cache\\db10831a932c5682c37ea2a902c8b18448cfd357\\output\\res\\drawable\\abc_btn_check_material.xml"
+        "merged": "D:\\APP\\XiaoBaiWthBaidu\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_internal_bg.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\8afab530a9623dbadf91fc2b2c83c329087c60a7\\output\\res\\drawable\\abc_cab_background_internal_bg.xml"
     },
     {
-        "merged": "D:\\work\\GitHub\\XiaoBaiWthBaidu\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bdspeech_btn_orangelight_normal.9.png",
-        "source": "D:\\work\\GitHub\\XiaoBaiWthBaidu\\app\\src\\main\\res\\drawable\\bdspeech_btn_orangelight_normal.9.png"
+        "merged": "D:\\APP\\XiaoBaiWthBaidu\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_colored_material.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\8afab530a9623dbadf91fc2b2c83c329087c60a7\\output\\res\\drawable\\abc_btn_colored_material.xml"
     },
     {
-        "merged": "D:\\work\\GitHub\\XiaoBaiWthBaidu\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bdspeech_right_orangedeep_pressed.9.png",
-        "source": "D:\\work\\GitHub\\XiaoBaiWthBaidu\\app\\src\\main\\res\\drawable\\bdspeech_right_orangedeep_pressed.9.png"
+        "merged": "D:\\APP\\XiaoBaiWthBaidu\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bdspeech_left_pressed.9.png",
+        "source": "D:\\APP\\XiaoBaiWthBaidu\\app\\src\\main\\res\\drawable\\bdspeech_left_pressed.9.png"
     },
     {
-        "merged": "D:\\work\\GitHub\\XiaoBaiWthBaidu\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bdspeech_btn_orangedeep_normal.9.png",
-        "source": "D:\\work\\GitHub\\XiaoBaiWthBaidu\\app\\src\\main\\res\\drawable\\bdspeech_btn_orangedeep_normal.9.png"
+        "merged": "D:\\APP\\XiaoBaiWthBaidu\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bdspeech_btn_redlight_normal.9.png",
+        "source": "D:\\APP\\XiaoBaiWthBaidu\\app\\src\\main\\res\\drawable\\bdspeech_btn_redlight_normal.9.png"
     },
     {
-        "merged": "D:\\work\\GitHub\\XiaoBaiWthBaidu\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\notification_bg_low.xml",
-        "source": "C:\\Users\\Joey\\.android\\build-cache\\db10831a932c5682c37ea2a902c8b18448cfd357\\output\\res\\drawable\\notification_bg_low.xml"
+        "merged": "D:\\APP\\XiaoBaiWthBaidu\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\logo_xiaobai.png",
+        "source": "D:\\APP\\XiaoBaiWthBaidu\\app\\src\\main\\res\\drawable\\logo_xiaobai.png"
     },
     {
-        "merged": "D:\\work\\GitHub\\XiaoBaiWthBaidu\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_edit_text_material.xml",
-        "source": "C:\\Users\\Joey\\.android\\build-cache\\db10831a932c5682c37ea2a902c8b18448cfd357\\output\\res\\drawable\\abc_edit_text_material.xml"
+        "merged": "D:\\APP\\XiaoBaiWthBaidu\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\notification_icon_background.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\8afab530a9623dbadf91fc2b2c83c329087c60a7\\output\\res\\drawable\\notification_icon_background.xml"
     },
     {
-        "merged": "D:\\work\\GitHub\\XiaoBaiWthBaidu\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bdspeech_btn_normal.9.png",
-        "source": "D:\\work\\GitHub\\XiaoBaiWthBaidu\\app\\src\\main\\res\\drawable\\bdspeech_btn_normal.9.png"
+        "merged": "D:\\APP\\XiaoBaiWthBaidu\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_tick_mark_material.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\8afab530a9623dbadf91fc2b2c83c329087c60a7\\output\\res\\drawable\\abc_seekbar_tick_mark_material.xml"
     },
     {
-        "merged": "D:\\work\\GitHub\\XiaoBaiWthBaidu\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_thumb_material.xml",
-        "source": "C:\\Users\\Joey\\.android\\build-cache\\db10831a932c5682c37ea2a902c8b18448cfd357\\output\\res\\drawable\\abc_seekbar_thumb_material.xml"
+        "merged": "D:\\APP\\XiaoBaiWthBaidu\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bdspeech_right_greenlight_normal.9.png",
+        "source": "D:\\APP\\XiaoBaiWthBaidu\\app\\src\\main\\res\\drawable\\bdspeech_right_greenlight_normal.9.png"
     }
 ]

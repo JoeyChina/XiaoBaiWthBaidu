@@ -1,4 +1,4 @@
-#Mon Aug 20 23:19:35 CST 2018
-base.0=D\:\\work\\GitHub\\XiaoBaiWthBaidu\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\5\\slice_7
+#Tue Aug 21 09:44:25 CST 2018
+base.0=D\:\\APP\\XiaoBaiWthBaidu\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\5\\slice_7
 renamed.0=classes.dex
-file.0=D\:\\work\\GitHub\\XiaoBaiWthBaidu\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\5\\slice_7\\classes.dex
+file.0=D\:\\APP\\XiaoBaiWthBaidu\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\5\\slice_7\\classes.dex

@@ -1,14 +1,14 @@
 [
     {
-        "merged": "D:\\work\\GitHub\\XiaoBaiWthBaidu\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\bd_asr_wave.png",
-        "source": "D:\\work\\GitHub\\XiaoBaiWthBaidu\\app\\src\\main\\res\\drawable-xhdpi\\bd_asr_wave.png"
+        "merged": "D:\\APP\\XiaoBaiWthBaidu\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\bd_asr_mic.png",
+        "source": "D:\\APP\\XiaoBaiWthBaidu\\app\\src\\main\\res\\drawable-xhdpi\\bd_asr_mic.png"
     },
     {
-        "merged": "D:\\work\\GitHub\\XiaoBaiWthBaidu\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ic_launcher.png",
-        "source": "D:\\work\\GitHub\\XiaoBaiWthBaidu\\app\\src\\main\\res\\drawable-xhdpi\\ic_launcher.png"
+        "merged": "D:\\APP\\XiaoBaiWthBaidu\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ic_launcher.png",
+        "source": "D:\\APP\\XiaoBaiWthBaidu\\app\\src\\main\\res\\drawable-xhdpi\\ic_launcher.png"
     },
     {
-        "merged": "D:\\work\\GitHub\\XiaoBaiWthBaidu\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\bd_asr_mic.png",
-        "source": "D:\\work\\GitHub\\XiaoBaiWthBaidu\\app\\src\\main\\res\\drawable-xhdpi\\bd_asr_mic.png"
+        "merged": "D:\\APP\\XiaoBaiWthBaidu\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\bd_asr_wave.png",
+        "source": "D:\\APP\\XiaoBaiWthBaidu\\app\\src\\main\\res\\drawable-xhdpi\\bd_asr_wave.png"
     }
 ]

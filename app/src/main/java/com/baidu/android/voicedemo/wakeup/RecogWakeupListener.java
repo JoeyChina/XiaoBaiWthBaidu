@@ -1,6 +1,7 @@
 package com.baidu.android.voicedemo.wakeup;
 
 import android.os.Handler;
+import android.os.Message;
 
 import com.baidu.android.voicedemo.recognization.IStatus;
 
@@ -21,6 +22,8 @@ public class RecogWakeupListener extends SimpleWakeupListener implements IStatus
     @Override
     public void onSuccess(String word, WakeUpResult result) {
         super.onSuccess(word, result);
-        handler.sendMessage(handler.obtainMessage(STATUS_WAKEUP_SUCCESS));
+        Message message = handler.obtainMessage(STATUS_WAKEUP_SUCCESS);
+        message.obj = word;
+        handler.sendMessage(message);
     }
 }

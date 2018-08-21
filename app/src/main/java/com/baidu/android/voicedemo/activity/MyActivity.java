@@ -51,6 +51,7 @@ import com.canall.gateway.util.MD5Util;
 
 import org.json.JSONException;
 import org.json.JSONObject;
+import org.w3c.dom.Text;
 
 import java.io.IOException;
 import java.sql.Date;
@@ -171,7 +172,7 @@ public class MyActivity extends Activity implements View.OnClickListener, IStatu
             }
         });
 
-        AssetFileDescriptor fileDescriptor = getResources().openRawResourceFd(R.raw.beep);
+        AssetFileDescriptor fileDescriptor = getResources().openRawResourceFd(R.raw.bdspeech_recognition_start);
 
         try {
             mediaPlayerBeep.setDataSource(fileDescriptor.getFileDescriptor(),
@@ -369,7 +370,7 @@ public class MyActivity extends Activity implements View.OnClickListener, IStatu
         ((SimpleTransApplication) getApplicationContext()).setDigitalDialogInput(input);
 
         // 修改对话框样式
-        // intent.putExtra(BaiduASRDigitalDialog.PARAM_DIALOG_THEME, BaiduASRDigitalDialog.THEME_ORANGE_DEEPBG);
+        intent.putExtra(BaiduASRDigitalDialog.PARAM_DIALOG_THEME, BaiduASRDigitalDialog.THEME_ORANGE_DEEPBG);
 
         running = true;
         startActivityForResult(intent, 2);
@@ -427,9 +428,20 @@ public class MyActivity extends Activity implements View.OnClickListener, IStatu
                 updateBtnTextByStatus();
                 break;
             case STATUS_WAKEUP_SUCCESS:
-                Log.i(TAG, "HHHH 语音唤醒成功");
-                if (mediaPlayerWakeup != null) {
-                    mediaPlayerWakeup.start();
+                Log.i(TAG, "HHHH 语音唤醒成功: " + (String) msg.obj);
+                String wakeString = (String) msg.obj;
+                if (!TextUtils.isEmpty(wakeString) && wakeString.equals("魔镜魔镜")) {
+                    switch (status) {
+                        case STATUS_NONE: // 初始状态
+                            start();
+                            status = STATUS_WAITING_READY;
+                            updateBtnTextByStatus();
+                            break;
+                    }
+                } else {
+                    if (mediaPlayerWakeup != null) {
+                        mediaPlayerWakeup.start();
+                    }
                 }
                 break;
             default:

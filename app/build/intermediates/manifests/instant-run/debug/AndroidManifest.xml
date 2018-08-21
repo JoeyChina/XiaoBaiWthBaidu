@@ -223,6 +223,10 @@
             </intent-filter>
         </activity>
 
+        <meta-data
+            android:name="android.support.VERSION"
+            android:value="25.4.0" />
+
         <provider
             android:name="com.android.tools.fd.runtime.InstantRunContentProvider"
             android:authorities="com.baidu.speech.recognizerdemo.com.android.tools.fd.runtime.InstantRunContentProvider"
